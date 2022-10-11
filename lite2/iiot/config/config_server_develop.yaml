@@ -4,28 +4,28 @@ iiot_server:
     port: 1233
 
   redis_server:
-    ip_address: 'onsite-monitor.xip.kr'
+    ip_address: 'x.x.x.x'
     port: 6379
-    pwd: 'eoqkrWkd!@3'
+    pwd: 'pwd'
 
   rabbit_mq:
-    ip_address: '172.17.250.207'
+    ip_address: 'x.x.x.x'
     port: 5672
     id: 'whaleshark'
-    pwd: 'whaleshark'
+    pwd: 'pwd'
     exchange: 'facility'
     exchange_type: 'direct'
 
   influxdb:
-    ip_address: '172.17.250.206'
+    ip_address: 'x.x.x.x'
     port: 8086
     id: 'whaleshark'
-    pwd: 'whaleshark'
+    pwd: 'pwd'
     db: 'facility'
     
   operatingdb:
-    host: '172.17.250.206'
+    host: 'x.x.x.x'
     port: 3306
     id: 'root'
-    pwd: 'datacentric'
+    pwd: 'pwd'
     db: 'whaleshark_lite2'
