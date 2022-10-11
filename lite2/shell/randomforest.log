@@ -1,0 +1,2574 @@
+10/17/2021 05:21:30 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/17/2021 05:21:30 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/17/2021 05:21:30 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Argon', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+10/17/2021 05:21:30 오후:DEBUG:randomforest:load training data
+10/17/2021 05:21:31 오후:DEBUG:randomforest:fit
+10/18/2021 11:16:45 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+10/18/2021 11:16:45 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/18/2021 11:16:45 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Argon', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+10/18/2021 11:16:45 오전:DEBUG:randomforest:load training data
+10/18/2021 11:16:45 오전:DEBUG:randomforest:fit
+10/18/2021 12:52:48 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/18/2021 12:52:48 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/18/2021 12:52:48 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Argon', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+10/18/2021 12:52:48 오후:DEBUG:randomforest:load training data
+10/18/2021 12:52:49 오후:DEBUG:randomforest:fit
+10/18/2021 02:20:43 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/18/2021 02:20:43 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/18/2021 02:20:43 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Argon', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+10/18/2021 02:20:43 오후:DEBUG:randomforest:load training data
+10/18/2021 02:20:43 오후:DEBUG:randomforest:fit
+10/18/2021 03:45:58 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/18/2021 03:45:58 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/18/2021 03:45:58 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Argon', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+10/18/2021 03:45:58 오후:DEBUG:randomforest:load training data
+10/18/2021 03:45:58 오후:DEBUG:randomforest:fit
+10/18/2021 03:48:31 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/18/2021 03:48:31 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/18/2021 03:48:31 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Argon', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+10/18/2021 03:48:31 오후:DEBUG:randomforest:load training data
+10/18/2021 03:48:31 오후:DEBUG:randomforest:fit
+10/18/2021 04:04:38 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/18/2021 04:04:38 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/18/2021 04:04:38 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Argon', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+10/18/2021 04:04:38 오후:DEBUG:randomforest:load training data
+10/18/2021 04:04:39 오후:DEBUG:randomforest:fit
+10/18/2021 04:29:16 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/18/2021 04:29:16 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/18/2021 04:29:16 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Argon', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+10/18/2021 04:29:16 오후:DEBUG:randomforest:load training data
+10/18/2021 04:29:16 오후:DEBUG:randomforest:fit
+10/18/2021 05:58:05 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/18/2021 05:58:05 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/18/2021 05:58:05 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+10/18/2021 05:58:05 오후:DEBUG:randomforest:load training data
+10/18/2021 05:58:06 오후:DEBUG:randomforest:fit
+10/18/2021 05:58:06 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+10/18/2021 05:58:06 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+10/18/2021 05:58:06 오후:DEBUG:randomforest:save model rds
+10/18/2021 05:58:06 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+10/18/2021 05:58:06 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+10/25/2021 02:59:12 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/25/2021 02:59:12 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/25/2021 02:59:12 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='INNER_PRESS', x_names='')
+10/25/2021 02:59:12 오후:DEBUG:randomforest:load training data
+10/25/2021 02:59:12 오후:DEBUG:randomforest:fit
+10/25/2021 02:59:12 오후:ERROR:Parsing status not OK - PARSING_STATUS.PARSE_ERROR
+10/25/2021 02:59:12 오후:DEBUG:randomforest:save model rds
+10/25/2021 02:59:12 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+10/25/2021 02:59:12 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+10/27/2021 10:59:36 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+10/27/2021 10:59:36 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/27/2021 10:59:36 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='최대주입압력_Max_I0jectio0_Pressure_', x_names='양불판정결과,고압사출시간_I0jectio0_Time_,쿠션위치_Cushio0_Positio0_,스크류최대속도_Max_Screw_RPM_')
+10/27/2021 10:59:36 오전:DEBUG:randomforest:load training data
+10/27/2021 10:59:36 오전:DEBUG:randomforest:fit
+10/27/2021 10:59:37 오전:DEBUG:randomforest:save model rds
+10/27/2021 10:59:38 오전:DEBUG:randomforest:get summary
+10/27/2021 10:59:39 오전:DEBUG:randomforest:get quantile
+10/27/2021 10:59:40 오전:DEBUG:randomforest:get importance
+10/27/2021 10:59:40 오전:DEBUG:randomforest:get varUsed
+10/27/2021 10:59:40 오전:DEBUG:randomforest:get error rate
+10/27/2021 10:59:40 오전:DEBUG:randomforest:get confusion matrix
+10/27/2021 10:59:41 오전:DEBUG:randomforest:error rate plot
+10/27/2021 10:59:41 오전:DEBUG:randomforest:plot var importance
+10/27/2021 10:59:41 오전:DEBUG:randomforest:print final result
+10/28/2021 01:19:47 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/28/2021 01:19:47 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/28/2021 01:19:47 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+10/28/2021 01:19:47 오후:DEBUG:randomforest:load training data
+10/28/2021 01:19:47 오후:DEBUG:randomforest:fit
+10/28/2021 01:19:47 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+10/28/2021 01:19:47 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+10/28/2021 01:19:47 오후:DEBUG:randomforest:save model rds
+10/28/2021 01:19:47 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+10/28/2021 01:19:47 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+10/29/2021 02:21:36 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/29/2021 02:21:36 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/29/2021 02:21:36 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+10/29/2021 02:21:36 오후:ERROR:'wdate'
+10/29/2021 02:50:43 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/29/2021 02:50:43 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/29/2021 02:50:43 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Argon', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+10/29/2021 02:50:43 오후:DEBUG:randomforest:load training data
+10/29/2021 02:50:43 오후:DEBUG:randomforest:fit
+10/29/2021 02:50:44 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Need at least two classes to do classification.
+
+10/29/2021 02:50:44 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Need at least two classes to do classification.
+
+10/29/2021 02:50:44 오후:DEBUG:randomforest:save model rds
+10/29/2021 02:50:44 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+10/29/2021 02:50:44 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+10/29/2021 02:51:28 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/29/2021 02:51:28 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/29/2021 02:51:28 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='DepTime', x_names='Year,Month,DayofMonth,DayOfWeek')
+10/29/2021 02:51:28 오후:ERROR:'DepTime'
+11/02/2021 03:01:58 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/02/2021 03:01:58 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/02/2021 03:01:58 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/02/2021 03:01:58 오후:DEBUG:randomforest:load training data
+11/02/2021 03:01:58 오후:DEBUG:randomforest:fit
+11/02/2021 03:01:58 오후:DEBUG:randomforest:save model rds
+11/02/2021 03:01:58 오후:DEBUG:randomforest:get summary
+11/02/2021 03:01:58 오후:DEBUG:randomforest:get quantile
+11/02/2021 03:01:59 오후:DEBUG:randomforest:get importance
+11/02/2021 03:01:59 오후:DEBUG:randomforest:get varUsed
+11/02/2021 03:01:59 오후:DEBUG:randomforest:get error rate
+11/02/2021 03:01:59 오후:DEBUG:randomforest:get confusion matrix
+11/02/2021 03:01:59 오후:DEBUG:randomforest:error rate plot
+11/02/2021 03:02:00 오후:DEBUG:randomforest:plot var importance
+11/02/2021 03:02:00 오후:DEBUG:randomforest:print final result
+11/02/2021 05:59:28 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/02/2021 05:59:28 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/02/2021 05:59:28 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/02/2021 05:59:28 오후:DEBUG:randomforest:load training data
+11/02/2021 05:59:28 오후:DEBUG:randomforest:fit
+11/02/2021 05:59:28 오후:DEBUG:randomforest:save model rds
+11/02/2021 05:59:28 오후:DEBUG:randomforest:get summary
+11/02/2021 05:59:28 오후:DEBUG:randomforest:get quantile
+11/02/2021 05:59:28 오후:DEBUG:randomforest:get importance
+11/02/2021 05:59:28 오후:DEBUG:randomforest:get varUsed
+11/02/2021 05:59:28 오후:DEBUG:randomforest:get error rate
+11/02/2021 05:59:28 오후:DEBUG:randomforest:get confusion matrix
+11/02/2021 05:59:28 오후:DEBUG:randomforest:error rate plot
+11/02/2021 05:59:28 오후:DEBUG:randomforest:plot var importance
+11/02/2021 05:59:29 오후:DEBUG:randomforest:print final result
+11/02/2021 06:05:57 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/02/2021 06:05:57 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/02/2021 06:05:57 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/02/2021 06:05:57 오후:DEBUG:randomforest:load training data
+11/02/2021 06:05:57 오후:DEBUG:randomforest:fit
+11/02/2021 06:05:57 오후:DEBUG:randomforest:save model rds
+11/02/2021 06:05:57 오후:DEBUG:randomforest:get summary
+11/02/2021 06:05:57 오후:DEBUG:randomforest:get quantile
+11/02/2021 06:05:57 오후:DEBUG:randomforest:get importance
+11/02/2021 06:05:57 오후:DEBUG:randomforest:get varUsed
+11/02/2021 06:05:57 오후:DEBUG:randomforest:get error rate
+11/02/2021 06:05:57 오후:DEBUG:randomforest:get confusion matrix
+11/02/2021 06:05:57 오후:DEBUG:randomforest:error rate plot
+11/02/2021 06:05:57 오후:DEBUG:randomforest:plot var importance
+11/02/2021 06:05:57 오후:DEBUG:randomforest:print final result
+11/02/2021 06:08:23 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/02/2021 06:08:23 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/02/2021 06:08:23 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/02/2021 06:08:23 오후:DEBUG:randomforest:load training data
+11/02/2021 06:08:23 오후:DEBUG:randomforest:fit
+11/02/2021 06:08:23 오후:DEBUG:randomforest:save model rds
+11/02/2021 06:08:23 오후:DEBUG:randomforest:get summary
+11/02/2021 06:08:23 오후:DEBUG:randomforest:get quantile
+11/02/2021 06:08:23 오후:DEBUG:randomforest:get importance
+11/02/2021 06:08:23 오후:DEBUG:randomforest:get varUsed
+11/02/2021 06:08:23 오후:DEBUG:randomforest:get error rate
+11/02/2021 06:08:23 오후:DEBUG:randomforest:get confusion matrix
+11/02/2021 06:08:23 오후:DEBUG:randomforest:error rate plot
+11/02/2021 06:08:23 오후:DEBUG:randomforest:plot var importance
+11/02/2021 06:08:23 오후:DEBUG:randomforest:print final result
+11/02/2021 06:32:31 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/02/2021 06:32:31 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/02/2021 06:32:31 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Argon', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+11/02/2021 06:32:31 오후:DEBUG:randomforest:load training data
+11/02/2021 06:32:31 오후:DEBUG:randomforest:fit
+11/03/2021 09:24:38 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 09:24:38 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 09:24:38 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/03/2021 09:24:38 오전:DEBUG:randomforest:load training data
+11/03/2021 09:24:38 오전:DEBUG:randomforest:fit
+11/03/2021 09:24:38 오전:DEBUG:randomforest:save model rds
+11/03/2021 09:24:38 오전:DEBUG:randomforest:get summary
+11/03/2021 09:24:38 오전:DEBUG:randomforest:get quantile
+11/03/2021 09:24:39 오전:DEBUG:randomforest:get importance
+11/03/2021 09:24:39 오전:DEBUG:randomforest:get varUsed
+11/03/2021 09:24:39 오전:DEBUG:randomforest:get error rate
+11/03/2021 09:24:39 오전:DEBUG:randomforest:get confusion matrix
+11/03/2021 09:24:39 오전:DEBUG:randomforest:error rate plot
+11/03/2021 09:24:39 오전:DEBUG:randomforest:plot var importance
+11/03/2021 09:24:39 오전:DEBUG:randomforest:print final result
+11/03/2021 09:28:13 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 09:28:13 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 09:28:13 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/03/2021 09:28:13 오전:DEBUG:randomforest:load training data
+11/03/2021 09:28:13 오전:DEBUG:randomforest:fit
+11/03/2021 09:28:13 오전:DEBUG:randomforest:save model rds
+11/03/2021 09:28:13 오전:DEBUG:randomforest:get summary
+11/03/2021 09:28:13 오전:DEBUG:randomforest:get quantile
+11/03/2021 09:28:13 오전:DEBUG:randomforest:get importance
+11/03/2021 09:28:13 오전:DEBUG:randomforest:get varUsed
+11/03/2021 09:28:13 오전:DEBUG:randomforest:get error rate
+11/03/2021 09:28:13 오전:DEBUG:randomforest:get confusion matrix
+11/03/2021 09:28:13 오전:DEBUG:randomforest:error rate plot
+11/03/2021 09:28:14 오전:DEBUG:randomforest:plot var importance
+11/03/2021 09:28:14 오전:DEBUG:randomforest:print final result
+11/03/2021 09:30:12 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 09:30:12 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 09:30:12 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/03/2021 09:30:12 오전:DEBUG:randomforest:load training data
+11/03/2021 09:30:12 오전:DEBUG:randomforest:fit
+11/03/2021 09:30:12 오전:DEBUG:randomforest:save model rds
+11/03/2021 09:30:12 오전:DEBUG:randomforest:get summary
+11/03/2021 09:30:12 오전:DEBUG:randomforest:get quantile
+11/03/2021 09:30:12 오전:DEBUG:randomforest:get importance
+11/03/2021 09:30:12 오전:DEBUG:randomforest:get varUsed
+11/03/2021 09:30:12 오전:DEBUG:randomforest:get error rate
+11/03/2021 09:30:12 오전:DEBUG:randomforest:get confusion matrix
+11/03/2021 09:30:12 오전:DEBUG:randomforest:error rate plot
+11/03/2021 09:30:12 오전:DEBUG:randomforest:plot var importance
+11/03/2021 09:30:12 오전:DEBUG:randomforest:print final result
+11/03/2021 09:56:41 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 09:56:41 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 09:56:41 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/03/2021 09:56:41 오전:DEBUG:randomforest:load training data
+11/03/2021 09:56:41 오전:DEBUG:randomforest:fit
+11/03/2021 09:56:41 오전:DEBUG:randomforest:save model rds
+11/03/2021 09:56:41 오전:DEBUG:randomforest:get summary
+11/03/2021 09:56:41 오전:DEBUG:randomforest:get quantile
+11/03/2021 09:56:41 오전:DEBUG:randomforest:get importance
+11/03/2021 09:56:41 오전:DEBUG:randomforest:get varUsed
+11/03/2021 09:56:41 오전:DEBUG:randomforest:get error rate
+11/03/2021 09:56:41 오전:DEBUG:randomforest:get confusion matrix
+11/03/2021 09:56:41 오전:DEBUG:randomforest:error rate plot
+11/03/2021 09:56:41 오전:DEBUG:randomforest:plot var importance
+11/03/2021 09:56:41 오전:DEBUG:randomforest:print final result
+11/03/2021 10:12:12 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 10:12:12 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 10:12:12 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/03/2021 10:12:12 오전:DEBUG:randomforest:load training data
+11/03/2021 10:12:12 오전:DEBUG:randomforest:fit
+11/03/2021 10:12:12 오전:DEBUG:randomforest:save model rds
+11/03/2021 10:12:12 오전:DEBUG:randomforest:get summary
+11/03/2021 10:12:12 오전:DEBUG:randomforest:get quantile
+11/03/2021 10:12:12 오전:DEBUG:randomforest:get importance
+11/03/2021 10:12:12 오전:DEBUG:randomforest:get varUsed
+11/03/2021 10:12:12 오전:DEBUG:randomforest:get error rate
+11/03/2021 10:12:12 오전:DEBUG:randomforest:get confusion matrix
+11/03/2021 10:12:12 오전:DEBUG:randomforest:error rate plot
+11/03/2021 10:12:12 오전:DEBUG:randomforest:plot var importance
+11/03/2021 10:12:12 오전:DEBUG:randomforest:print final result
+11/03/2021 10:59:12 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 10:59:12 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 10:59:12 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/03/2021 10:59:12 오전:DEBUG:randomforest:load training data
+11/03/2021 10:59:12 오전:DEBUG:randomforest:fit
+11/03/2021 10:59:12 오전:DEBUG:randomforest:save model rds
+11/03/2021 10:59:12 오전:DEBUG:randomforest:get summary
+11/03/2021 10:59:12 오전:DEBUG:randomforest:get quantile
+11/03/2021 10:59:12 오전:DEBUG:randomforest:get importance
+11/03/2021 10:59:12 오전:DEBUG:randomforest:get varUsed
+11/03/2021 10:59:12 오전:DEBUG:randomforest:get error rate
+11/03/2021 10:59:12 오전:DEBUG:randomforest:get confusion matrix
+11/03/2021 10:59:12 오전:DEBUG:randomforest:error rate plot
+11/03/2021 10:59:12 오전:DEBUG:randomforest:plot var importance
+11/03/2021 10:59:12 오전:DEBUG:randomforest:print final result
+11/03/2021 11:05:41 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 11:05:41 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 11:05:41 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/03/2021 11:05:41 오전:DEBUG:randomforest:load training data
+11/03/2021 11:05:41 오전:DEBUG:randomforest:fit
+11/03/2021 11:05:41 오전:DEBUG:randomforest:save model rds
+11/03/2021 11:05:41 오전:DEBUG:randomforest:get summary
+11/03/2021 11:05:41 오전:DEBUG:randomforest:get quantile
+11/03/2021 11:05:41 오전:DEBUG:randomforest:get importance
+11/03/2021 11:05:41 오전:DEBUG:randomforest:get varUsed
+11/03/2021 11:05:41 오전:DEBUG:randomforest:get error rate
+11/03/2021 11:05:41 오전:DEBUG:randomforest:get confusion matrix
+11/03/2021 11:05:41 오전:DEBUG:randomforest:error rate plot
+11/03/2021 11:05:42 오전:DEBUG:randomforest:plot var importance
+11/03/2021 11:05:42 오전:DEBUG:randomforest:print final result
+11/03/2021 11:19:22 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 11:19:22 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 11:19:22 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/03/2021 11:19:22 오전:DEBUG:randomforest:load training data
+11/03/2021 11:19:22 오전:DEBUG:randomforest:fit
+11/03/2021 11:19:22 오전:DEBUG:randomforest:save model rds
+11/03/2021 11:19:22 오전:DEBUG:randomforest:get summary
+11/03/2021 11:19:22 오전:DEBUG:randomforest:get quantile
+11/03/2021 11:19:23 오전:DEBUG:randomforest:get importance
+11/03/2021 11:19:23 오전:DEBUG:randomforest:get varUsed
+11/03/2021 11:19:23 오전:DEBUG:randomforest:get error rate
+11/03/2021 11:19:23 오전:DEBUG:randomforest:get confusion matrix
+11/03/2021 11:19:23 오전:DEBUG:randomforest:error rate plot
+11/03/2021 11:19:23 오전:DEBUG:randomforest:plot var importance
+11/03/2021 11:19:23 오전:DEBUG:randomforest:print final result
+11/03/2021 12:24:12 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 12:24:12 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 12:24:12 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/03/2021 12:24:12 오후:DEBUG:randomforest:load training data
+11/03/2021 12:24:12 오후:DEBUG:randomforest:fit
+11/03/2021 12:24:12 오후:DEBUG:randomforest:save model rds
+11/03/2021 12:24:12 오후:DEBUG:randomforest:get summary
+11/03/2021 12:24:12 오후:DEBUG:randomforest:get quantile
+11/03/2021 12:24:12 오후:DEBUG:randomforest:get importance
+11/03/2021 12:24:12 오후:DEBUG:randomforest:get varUsed
+11/03/2021 12:24:12 오후:DEBUG:randomforest:get error rate
+11/03/2021 12:24:12 오후:DEBUG:randomforest:get confusion matrix
+11/03/2021 12:24:12 오후:DEBUG:randomforest:error rate plot
+11/03/2021 12:24:13 오후:DEBUG:randomforest:plot var importance
+11/03/2021 12:24:13 오후:DEBUG:randomforest:print final result
+11/03/2021 01:00:22 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 01:00:22 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 01:00:22 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/03/2021 01:00:22 오후:DEBUG:randomforest:load training data
+11/03/2021 01:00:22 오후:DEBUG:randomforest:fit
+11/03/2021 01:00:22 오후:DEBUG:randomforest:save model rds
+11/03/2021 01:00:22 오후:DEBUG:randomforest:get summary
+11/03/2021 01:00:22 오후:DEBUG:randomforest:get quantile
+11/03/2021 01:00:22 오후:DEBUG:randomforest:get importance
+11/03/2021 01:00:22 오후:DEBUG:randomforest:get varUsed
+11/03/2021 01:00:22 오후:DEBUG:randomforest:get error rate
+11/03/2021 01:00:22 오후:DEBUG:randomforest:get confusion matrix
+11/03/2021 01:00:22 오후:DEBUG:randomforest:error rate plot
+11/03/2021 01:00:22 오후:DEBUG:randomforest:plot var importance
+11/03/2021 01:00:22 오후:DEBUG:randomforest:print final result
+11/03/2021 03:17:58 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 03:17:58 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 03:17:58 오후:DEBUG:Namespace(fun='fit', input_path='{input_file/readonly}', model_path='{model_path/readonly}/randomforest.model', numoftree=500, random_start=123, target_name='{dep_column/column}', x_names='{ind_columns/columns}')
+11/03/2021 03:17:58 오후:ERROR:[Errno 2] 그런 파일이나 디렉터리가 없습니다: '{input_file/readonly}'
+11/03/2021 03:19:32 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 03:19:32 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 03:19:32 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/03/2021 03:19:32 오후:DEBUG:randomforest:load training data
+11/03/2021 03:19:32 오후:DEBUG:randomforest:fit
+11/03/2021 03:19:32 오후:DEBUG:randomforest:save model rds
+11/03/2021 03:19:32 오후:DEBUG:randomforest:get summary
+11/03/2021 03:19:32 오후:DEBUG:randomforest:get quantile
+11/03/2021 03:19:32 오후:DEBUG:randomforest:get importance
+11/03/2021 03:19:32 오후:DEBUG:randomforest:get varUsed
+11/03/2021 03:19:32 오후:DEBUG:randomforest:get error rate
+11/03/2021 03:19:32 오후:DEBUG:randomforest:get confusion matrix
+11/03/2021 03:19:32 오후:DEBUG:randomforest:error rate plot
+11/03/2021 03:19:32 오후:DEBUG:randomforest:plot var importance
+11/03/2021 03:19:32 오후:DEBUG:randomforest:print final result
+11/03/2021 04:08:37 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/03/2021 04:08:37 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/03/2021 04:08:37 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/03/2021 04:08:37 오후:DEBUG:randomforest:load training data
+11/03/2021 04:08:37 오후:DEBUG:randomforest:fit
+11/03/2021 04:08:37 오후:DEBUG:randomforest:save model rds
+11/03/2021 04:08:37 오후:DEBUG:randomforest:get summary
+11/03/2021 04:08:37 오후:DEBUG:randomforest:get quantile
+11/03/2021 04:08:38 오후:DEBUG:randomforest:get importance
+11/03/2021 04:08:38 오후:DEBUG:randomforest:get varUsed
+11/03/2021 04:08:38 오후:DEBUG:randomforest:get error rate
+11/03/2021 04:08:38 오후:DEBUG:randomforest:get confusion matrix
+11/03/2021 04:08:38 오후:DEBUG:randomforest:error rate plot
+11/03/2021 04:08:38 오후:DEBUG:randomforest:plot var importance
+11/03/2021 04:08:38 오후:DEBUG:randomforest:print final result
+11/04/2021 03:06:23 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/04/2021 03:06:23 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/04/2021 03:06:23 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/04/2021 03:06:23 오후:DEBUG:randomforest:load training data
+11/04/2021 03:06:23 오후:DEBUG:randomforest:fit
+11/04/2021 03:06:23 오후:DEBUG:randomforest:save model rds
+11/04/2021 03:06:23 오후:DEBUG:randomforest:get summary
+11/04/2021 03:06:23 오후:DEBUG:randomforest:get quantile
+11/04/2021 03:06:24 오후:DEBUG:randomforest:get importance
+11/04/2021 03:06:24 오후:DEBUG:randomforest:get varUsed
+11/04/2021 03:06:24 오후:DEBUG:randomforest:get error rate
+11/04/2021 03:06:24 오후:DEBUG:randomforest:get confusion matrix
+11/04/2021 03:06:24 오후:DEBUG:randomforest:error rate plot
+11/04/2021 03:06:24 오후:DEBUG:randomforest:plot var importance
+11/04/2021 03:06:24 오후:DEBUG:randomforest:print final result
+11/04/2021 05:04:02 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/04/2021 05:04:02 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/04/2021 05:04:02 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/04/2021 05:04:02 오후:DEBUG:randomforest:load training data
+11/04/2021 05:04:02 오후:DEBUG:randomforest:fit
+11/04/2021 05:04:02 오후:DEBUG:randomforest:save model rds
+11/04/2021 05:04:02 오후:DEBUG:randomforest:get summary
+11/04/2021 05:04:02 오후:DEBUG:randomforest:get quantile
+11/04/2021 05:04:02 오후:DEBUG:randomforest:get importance
+11/04/2021 05:04:02 오후:DEBUG:randomforest:get varUsed
+11/04/2021 05:04:02 오후:DEBUG:randomforest:get error rate
+11/04/2021 05:04:02 오후:DEBUG:randomforest:get confusion matrix
+11/04/2021 05:04:02 오후:DEBUG:randomforest:error rate plot
+11/04/2021 05:04:02 오후:DEBUG:randomforest:plot var importance
+11/04/2021 05:04:03 오후:DEBUG:randomforest:print final result
+11/04/2021 05:11:33 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/04/2021 05:11:33 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/04/2021 05:11:33 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+11/04/2021 05:11:33 오후:DEBUG:randomforest:load training data
+11/04/2021 05:11:33 오후:DEBUG:randomforest:fit
+11/04/2021 05:11:33 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/04/2021 05:11:33 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/04/2021 05:11:33 오후:DEBUG:randomforest:save model rds
+11/04/2021 05:11:33 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/04/2021 05:11:33 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/04/2021 05:12:00 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/04/2021 05:12:00 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/04/2021 05:12:00 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+11/04/2021 05:12:00 오후:DEBUG:randomforest:load training data
+11/04/2021 05:12:00 오후:DEBUG:randomforest:fit
+11/04/2021 05:12:00 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/04/2021 05:12:00 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/04/2021 05:12:00 오후:DEBUG:randomforest:save model rds
+11/04/2021 05:12:00 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/04/2021 05:12:00 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/04/2021 05:12:39 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/04/2021 05:12:39 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/04/2021 05:12:39 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/04/2021 05:12:39 오후:DEBUG:randomforest:load training data
+11/04/2021 05:12:39 오후:DEBUG:randomforest:fit
+11/04/2021 05:12:39 오후:DEBUG:randomforest:save model rds
+11/04/2021 05:12:39 오후:DEBUG:randomforest:get summary
+11/04/2021 05:12:39 오후:DEBUG:randomforest:get quantile
+11/04/2021 05:12:39 오후:DEBUG:randomforest:get importance
+11/04/2021 05:12:39 오후:DEBUG:randomforest:get varUsed
+11/04/2021 05:12:39 오후:DEBUG:randomforest:get error rate
+11/04/2021 05:12:39 오후:DEBUG:randomforest:get confusion matrix
+11/04/2021 05:12:39 오후:DEBUG:randomforest:error rate plot
+11/04/2021 05:12:39 오후:DEBUG:randomforest:plot var importance
+11/04/2021 05:12:39 오후:DEBUG:randomforest:print final result
+11/04/2021 05:18:25 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/04/2021 05:18:25 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/04/2021 05:18:25 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+11/04/2021 05:18:25 오후:DEBUG:randomforest:load training data
+11/04/2021 05:18:25 오후:DEBUG:randomforest:fit
+11/04/2021 05:18:25 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/04/2021 05:18:25 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/04/2021 05:18:25 오후:DEBUG:randomforest:save model rds
+11/04/2021 05:18:25 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/04/2021 05:18:25 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/04/2021 05:53:43 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/04/2021 05:53:43 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/04/2021 05:53:43 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/04/2021 05:53:43 오후:DEBUG:randomforest:load training data
+11/04/2021 05:53:43 오후:DEBUG:randomforest:fit
+11/04/2021 05:53:43 오후:DEBUG:randomforest:save model rds
+11/04/2021 05:53:43 오후:DEBUG:randomforest:get summary
+11/04/2021 05:53:43 오후:DEBUG:randomforest:get quantile
+11/04/2021 05:53:43 오후:DEBUG:randomforest:get importance
+11/04/2021 05:53:43 오후:DEBUG:randomforest:get varUsed
+11/04/2021 05:53:43 오후:DEBUG:randomforest:get error rate
+11/04/2021 05:53:43 오후:DEBUG:randomforest:get confusion matrix
+11/04/2021 05:53:43 오후:DEBUG:randomforest:error rate plot
+11/04/2021 05:53:43 오후:DEBUG:randomforest:plot var importance
+11/04/2021 05:53:43 오후:DEBUG:randomforest:print final result
+11/04/2021 08:02:27 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/04/2021 08:02:27 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/04/2021 08:02:27 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='AMP2__R_', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+11/04/2021 08:02:27 오후:DEBUG:randomforest:load training data
+11/04/2021 08:02:28 오후:DEBUG:randomforest:fit
+11/04/2021 08:02:28 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Need at least two classes to do classification.
+
+11/04/2021 08:02:28 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Need at least two classes to do classification.
+
+11/04/2021 08:02:28 오후:DEBUG:randomforest:save model rds
+11/04/2021 08:02:28 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/04/2021 08:02:28 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 10:30:57 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 10:30:57 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 10:30:57 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/05/2021 10:30:57 오전:DEBUG:randomforest:load training data
+11/05/2021 10:30:57 오전:DEBUG:randomforest:fit
+11/05/2021 10:30:57 오전:DEBUG:randomforest:save model rds
+11/05/2021 10:30:57 오전:DEBUG:randomforest:get summary
+11/05/2021 10:30:57 오전:DEBUG:randomforest:get quantile
+11/05/2021 10:30:58 오전:DEBUG:randomforest:get importance
+11/05/2021 10:30:58 오전:DEBUG:randomforest:get varUsed
+11/05/2021 10:30:58 오전:DEBUG:randomforest:get error rate
+11/05/2021 10:30:58 오전:DEBUG:randomforest:get confusion matrix
+11/05/2021 10:30:58 오전:DEBUG:randomforest:error rate plot
+11/05/2021 10:30:59 오전:DEBUG:randomforest:plot var importance
+11/05/2021 10:30:59 오전:DEBUG:randomforest:print final result
+11/05/2021 10:55:02 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 10:55:02 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 10:55:02 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/05/2021 10:55:02 오전:DEBUG:randomforest:load training data
+11/05/2021 10:55:02 오전:DEBUG:randomforest:fit
+11/05/2021 10:55:02 오전:DEBUG:randomforest:save model rds
+11/05/2021 10:55:02 오전:DEBUG:randomforest:get summary
+11/05/2021 10:55:02 오전:DEBUG:randomforest:get quantile
+11/05/2021 10:55:02 오전:DEBUG:randomforest:get importance
+11/05/2021 10:55:02 오전:DEBUG:randomforest:get varUsed
+11/05/2021 10:55:02 오전:DEBUG:randomforest:get error rate
+11/05/2021 10:55:02 오전:DEBUG:randomforest:get confusion matrix
+11/05/2021 10:55:02 오전:DEBUG:randomforest:error rate plot
+11/05/2021 10:55:04 오전:DEBUG:randomforest:plot var importance
+11/05/2021 10:55:05 오전:DEBUG:randomforest:print final result
+11/05/2021 10:55:51 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 10:55:51 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 10:55:51 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/05/2021 10:55:51 오전:DEBUG:randomforest:load training data
+11/05/2021 10:55:51 오전:DEBUG:randomforest:fit
+11/05/2021 10:55:51 오전:DEBUG:randomforest:save model rds
+11/05/2021 10:55:51 오전:DEBUG:randomforest:get summary
+11/05/2021 10:55:51 오전:DEBUG:randomforest:get quantile
+11/05/2021 10:55:51 오전:DEBUG:randomforest:get importance
+11/05/2021 10:55:51 오전:DEBUG:randomforest:get varUsed
+11/05/2021 10:55:51 오전:DEBUG:randomforest:get error rate
+11/05/2021 10:55:51 오전:DEBUG:randomforest:get confusion matrix
+11/05/2021 10:55:51 오전:DEBUG:randomforest:error rate plot
+11/05/2021 10:55:51 오전:DEBUG:randomforest:plot var importance
+11/05/2021 10:55:51 오전:DEBUG:randomforest:print final result
+11/05/2021 10:57:04 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 10:57:04 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 10:57:04 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/05/2021 10:57:04 오전:DEBUG:randomforest:load training data
+11/05/2021 10:57:04 오전:DEBUG:randomforest:fit
+11/05/2021 10:57:04 오전:DEBUG:randomforest:save model rds
+11/05/2021 10:57:04 오전:DEBUG:randomforest:get summary
+11/05/2021 10:57:04 오전:DEBUG:randomforest:get quantile
+11/05/2021 10:57:04 오전:DEBUG:randomforest:get importance
+11/05/2021 10:57:04 오전:DEBUG:randomforest:get varUsed
+11/05/2021 10:57:04 오전:DEBUG:randomforest:get error rate
+11/05/2021 10:57:04 오전:DEBUG:randomforest:get confusion matrix
+11/05/2021 10:57:04 오전:DEBUG:randomforest:error rate plot
+11/05/2021 10:57:05 오전:DEBUG:randomforest:plot var importance
+11/05/2021 10:57:05 오전:DEBUG:randomforest:print final result
+11/05/2021 10:57:47 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 10:57:47 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 10:57:47 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+11/05/2021 10:57:47 오전:DEBUG:randomforest:load training data
+11/05/2021 10:57:47 오전:DEBUG:randomforest:fit
+11/05/2021 10:57:47 오전:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 10:57:47 오전:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 10:57:47 오전:DEBUG:randomforest:save model rds
+11/05/2021 10:57:47 오전:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 10:57:47 오전:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 11:07:55 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 11:07:55 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 11:07:55 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+11/05/2021 11:07:55 오전:DEBUG:randomforest:load training data
+11/05/2021 11:07:55 오전:DEBUG:randomforest:fit
+11/05/2021 11:07:55 오전:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 11:07:55 오전:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 11:07:55 오전:DEBUG:randomforest:save model rds
+11/05/2021 11:07:55 오전:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 11:07:55 오전:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 11:08:42 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 11:08:42 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 11:08:42 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+11/05/2021 11:08:42 오전:DEBUG:randomforest:load training data
+11/05/2021 11:08:43 오전:DEBUG:randomforest:fit
+11/05/2021 11:08:43 오전:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 11:08:43 오전:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 11:08:43 오전:DEBUG:randomforest:save model rds
+11/05/2021 11:08:43 오전:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 11:08:43 오전:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 11:31:48 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 11:31:48 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 11:31:48 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+11/05/2021 11:31:48 오전:DEBUG:randomforest:load training data
+11/05/2021 11:31:49 오전:DEBUG:randomforest:fit
+11/05/2021 11:31:49 오전:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 11:31:49 오전:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 11:31:49 오전:DEBUG:randomforest:save model rds
+11/05/2021 11:31:49 오전:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 11:31:49 오전:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 11:32:00 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 11:32:00 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 11:32:00 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/05/2021 11:32:00 오전:ERROR:'기술2'
+11/05/2021 11:32:07 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 11:32:07 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 11:32:07 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+11/05/2021 11:32:07 오전:DEBUG:randomforest:load training data
+11/05/2021 11:32:08 오전:DEBUG:randomforest:fit
+11/05/2021 11:32:08 오전:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 11:32:08 오전:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 11:32:08 오전:DEBUG:randomforest:save model rds
+11/05/2021 11:32:08 오전:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 11:32:08 오전:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 11:33:17 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 11:33:17 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 11:33:17 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='INNER_PRESS', x_names='AMP1__R_,AMP1__S_,AMP1__T_,Argon')
+11/05/2021 11:33:17 오전:DEBUG:randomforest:load training data
+11/05/2021 11:33:17 오전:DEBUG:randomforest:fit
+11/05/2021 11:33:17 오전:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Need at least two classes to do classification.
+
+11/05/2021 11:33:17 오전:ERROR:Error in randomForest.default(m, y, ...) : 
+  Need at least two classes to do classification.
+
+11/05/2021 11:33:17 오전:DEBUG:randomforest:save model rds
+11/05/2021 11:33:17 오전:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 11:33:17 오전:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 11:37:28 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 11:37:28 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 11:37:28 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/05/2021 11:37:28 오전:DEBUG:randomforest:load training data
+11/05/2021 11:37:28 오전:DEBUG:randomforest:fit
+11/05/2021 11:37:28 오전:DEBUG:randomforest:save model rds
+11/05/2021 11:37:28 오전:DEBUG:randomforest:get summary
+11/05/2021 11:37:28 오전:DEBUG:randomforest:get quantile
+11/05/2021 11:37:28 오전:DEBUG:randomforest:get importance
+11/05/2021 11:37:28 오전:DEBUG:randomforest:get varUsed
+11/05/2021 11:37:28 오전:DEBUG:randomforest:get error rate
+11/05/2021 11:37:28 오전:DEBUG:randomforest:get confusion matrix
+11/05/2021 11:37:28 오전:DEBUG:randomforest:error rate plot
+11/05/2021 11:37:28 오전:DEBUG:randomforest:plot var importance
+11/05/2021 11:37:28 오전:DEBUG:randomforest:print final result
+11/05/2021 11:52:40 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 11:52:40 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 11:52:40 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/05/2021 11:52:40 오전:DEBUG:randomforest:load training data
+11/05/2021 11:52:41 오전:DEBUG:randomforest:fit
+11/05/2021 11:52:41 오전:DEBUG:randomforest:save model rds
+11/05/2021 11:52:41 오전:DEBUG:randomforest:get summary
+11/05/2021 11:52:41 오전:DEBUG:randomforest:get quantile
+11/05/2021 11:52:42 오전:DEBUG:randomforest:get importance
+11/05/2021 11:52:42 오전:DEBUG:randomforest:get varUsed
+11/05/2021 11:52:42 오전:DEBUG:randomforest:get error rate
+11/05/2021 11:52:42 오전:DEBUG:randomforest:get confusion matrix
+11/05/2021 11:52:42 오전:DEBUG:randomforest:error rate plot
+11/05/2021 11:52:42 오전:DEBUG:randomforest:plot var importance
+11/05/2021 11:52:43 오전:DEBUG:randomforest:print final result
+11/05/2021 11:55:26 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 11:55:26 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 11:55:26 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Argon', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+11/05/2021 11:55:26 오전:ERROR:'Argon'
+11/05/2021 12:20:27 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 12:20:27 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 12:20:27 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='최대주입압력_Max_I0jectio0_Pressure_', x_names='양불판정결과,고압사출시간_I0jectio0_Time_,쿠션위치_Cushio0_Positio0_,스크류최대속도_Max_Screw_RPM_')
+11/05/2021 12:20:27 오후:DEBUG:randomforest:load training data
+11/05/2021 12:20:27 오후:DEBUG:randomforest:fit
+11/05/2021 12:20:28 오후:DEBUG:randomforest:save model rds
+11/05/2021 12:20:28 오후:DEBUG:randomforest:get summary
+11/05/2021 12:20:29 오후:DEBUG:randomforest:get quantile
+11/05/2021 12:20:31 오후:DEBUG:randomforest:get importance
+11/05/2021 12:20:31 오후:DEBUG:randomforest:get varUsed
+11/05/2021 12:20:31 오후:DEBUG:randomforest:get error rate
+11/05/2021 12:20:32 오후:DEBUG:randomforest:get confusion matrix
+11/05/2021 12:20:32 오후:DEBUG:randomforest:error rate plot
+11/05/2021 12:20:32 오후:DEBUG:randomforest:plot var importance
+11/05/2021 12:20:32 오후:DEBUG:randomforest:print final result
+11/05/2021 12:21:22 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 12:21:22 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 12:21:22 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='INNER_PRESS', x_names='AMP1__R_,AMP1__S_,AMP1__T_,Argon')
+11/05/2021 12:21:22 오후:DEBUG:randomforest:load training data
+11/05/2021 12:21:22 오후:DEBUG:randomforest:fit
+11/05/2021 12:21:22 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Need at least two classes to do classification.
+
+11/05/2021 12:21:22 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Need at least two classes to do classification.
+
+11/05/2021 12:21:22 오후:DEBUG:randomforest:save model rds
+11/05/2021 12:21:22 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 12:21:22 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 12:48:29 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 12:48:29 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 12:48:29 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/05/2021 12:48:29 오후:DEBUG:randomforest:load training data
+11/05/2021 12:48:29 오후:DEBUG:randomforest:fit
+11/05/2021 12:48:29 오후:DEBUG:randomforest:save model rds
+11/05/2021 12:48:29 오후:DEBUG:randomforest:get summary
+11/05/2021 12:48:29 오후:DEBUG:randomforest:get quantile
+11/05/2021 12:48:29 오후:DEBUG:randomforest:get importance
+11/05/2021 12:48:29 오후:DEBUG:randomforest:get varUsed
+11/05/2021 12:48:29 오후:DEBUG:randomforest:get error rate
+11/05/2021 12:48:29 오후:DEBUG:randomforest:get confusion matrix
+11/05/2021 12:48:29 오후:DEBUG:randomforest:error rate plot
+11/05/2021 12:48:29 오후:DEBUG:randomforest:plot var importance
+11/05/2021 12:48:30 오후:DEBUG:randomforest:print final result
+11/05/2021 01:52:34 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 01:52:34 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 01:52:34 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='INNER_PRESS', x_names='AMP1__R_,AMP1__S_,AMP1__T_,Argon')
+11/05/2021 01:52:34 오후:DEBUG:randomforest:load training data
+11/05/2021 01:52:34 오후:DEBUG:randomforest:fit
+11/05/2021 01:52:34 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Need at least two classes to do classification.
+
+11/05/2021 01:52:34 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Need at least two classes to do classification.
+
+11/05/2021 01:52:34 오후:DEBUG:randomforest:save model rds
+11/05/2021 01:52:34 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 01:52:34 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 02:06:08 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 02:06:08 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 02:06:08 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+11/05/2021 02:06:08 오후:DEBUG:randomforest:load training data
+11/05/2021 02:06:09 오후:DEBUG:randomforest:fit
+11/05/2021 02:06:09 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 02:06:09 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 02:06:09 오후:DEBUG:randomforest:save model rds
+11/05/2021 02:06:09 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 02:06:09 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 02:09:38 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 02:09:38 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 02:09:38 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/05/2021 02:09:38 오후:DEBUG:randomforest:load training data
+11/05/2021 02:09:38 오후:DEBUG:randomforest:fit
+11/05/2021 02:09:38 오후:DEBUG:randomforest:save model rds
+11/05/2021 02:09:38 오후:DEBUG:randomforest:get summary
+11/05/2021 02:09:38 오후:DEBUG:randomforest:get quantile
+11/05/2021 02:09:38 오후:DEBUG:randomforest:get importance
+11/05/2021 02:09:38 오후:DEBUG:randomforest:get varUsed
+11/05/2021 02:09:38 오후:DEBUG:randomforest:get error rate
+11/05/2021 02:09:38 오후:DEBUG:randomforest:get confusion matrix
+11/05/2021 02:09:38 오후:DEBUG:randomforest:error rate plot
+11/05/2021 02:09:38 오후:DEBUG:randomforest:plot var importance
+11/05/2021 02:09:38 오후:DEBUG:randomforest:print final result
+11/05/2021 02:12:40 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 02:12:40 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 02:12:40 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+11/05/2021 02:12:40 오후:DEBUG:randomforest:load training data
+11/05/2021 02:12:41 오후:DEBUG:randomforest:fit
+11/05/2021 02:12:41 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 02:12:41 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 02:12:41 오후:DEBUG:randomforest:save model rds
+11/05/2021 02:12:41 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 02:12:41 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 02:22:34 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 02:22:34 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 02:22:34 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/05/2021 02:22:34 오후:DEBUG:randomforest:load training data
+11/05/2021 02:22:34 오후:DEBUG:randomforest:fit
+11/05/2021 02:22:34 오후:DEBUG:randomforest:save model rds
+11/05/2021 02:22:34 오후:DEBUG:randomforest:get summary
+11/05/2021 02:22:34 오후:DEBUG:randomforest:get quantile
+11/05/2021 02:22:34 오후:DEBUG:randomforest:get importance
+11/05/2021 02:22:34 오후:DEBUG:randomforest:get varUsed
+11/05/2021 02:22:34 오후:DEBUG:randomforest:get error rate
+11/05/2021 02:22:34 오후:DEBUG:randomforest:get confusion matrix
+11/05/2021 02:22:34 오후:DEBUG:randomforest:error rate plot
+11/05/2021 02:22:35 오후:DEBUG:randomforest:plot var importance
+11/05/2021 02:22:35 오후:DEBUG:randomforest:print final result
+11/05/2021 02:23:18 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 02:23:18 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 02:23:18 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+11/05/2021 02:23:18 오후:DEBUG:randomforest:load training data
+11/05/2021 02:23:19 오후:DEBUG:randomforest:fit
+11/05/2021 02:23:19 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 02:23:19 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Can not handle categorical predictors with more than 53 categories.
+
+11/05/2021 02:23:19 오후:DEBUG:randomforest:save model rds
+11/05/2021 02:23:19 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 02:23:19 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+11/05/2021 03:22:09 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/05/2021 03:22:09 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/05/2021 03:22:09 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/05/2021 03:22:09 오후:DEBUG:randomforest:load training data
+11/05/2021 03:22:09 오후:DEBUG:randomforest:fit
+11/05/2021 03:22:09 오후:DEBUG:randomforest:save model rds
+11/05/2021 03:22:09 오후:DEBUG:randomforest:get summary
+11/05/2021 03:22:09 오후:DEBUG:randomforest:get quantile
+11/05/2021 03:22:09 오후:DEBUG:randomforest:get importance
+11/05/2021 03:22:09 오후:DEBUG:randomforest:get varUsed
+11/05/2021 03:22:09 오후:DEBUG:randomforest:get error rate
+11/05/2021 03:22:09 오후:DEBUG:randomforest:get confusion matrix
+11/05/2021 03:22:09 오후:DEBUG:randomforest:error rate plot
+11/05/2021 03:22:09 오후:DEBUG:randomforest:plot var importance
+11/05/2021 03:22:09 오후:DEBUG:randomforest:print final result
+11/06/2021 03:36:35 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/06/2021 03:36:35 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/06/2021 03:36:35 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/06/2021 03:36:35 오후:DEBUG:randomforest:load training data
+11/06/2021 03:36:35 오후:DEBUG:randomforest:fit
+11/06/2021 03:36:35 오후:DEBUG:randomforest:save model rds
+11/06/2021 03:36:35 오후:DEBUG:randomforest:get summary
+11/06/2021 03:36:35 오후:DEBUG:randomforest:get quantile
+11/06/2021 03:36:36 오후:DEBUG:randomforest:get importance
+11/06/2021 03:36:36 오후:DEBUG:randomforest:get varUsed
+11/06/2021 03:36:36 오후:DEBUG:randomforest:get error rate
+11/06/2021 03:36:36 오후:DEBUG:randomforest:get confusion matrix
+11/06/2021 03:36:36 오후:DEBUG:randomforest:error rate plot
+11/06/2021 03:36:36 오후:DEBUG:randomforest:plot var importance
+11/06/2021 03:36:36 오후:DEBUG:randomforest:print final result
+11/06/2021 03:40:19 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/06/2021 03:40:19 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/06/2021 03:40:19 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/06/2021 03:40:19 오후:DEBUG:randomforest:load training data
+11/06/2021 03:40:19 오후:DEBUG:randomforest:fit
+11/06/2021 03:40:19 오후:DEBUG:randomforest:save model rds
+11/06/2021 03:40:19 오후:DEBUG:randomforest:get summary
+11/06/2021 03:40:19 오후:DEBUG:randomforest:get quantile
+11/06/2021 03:40:19 오후:DEBUG:randomforest:get importance
+11/06/2021 03:40:19 오후:DEBUG:randomforest:get varUsed
+11/06/2021 03:40:19 오후:DEBUG:randomforest:get error rate
+11/06/2021 03:40:19 오후:DEBUG:randomforest:get confusion matrix
+11/06/2021 03:40:19 오후:DEBUG:randomforest:error rate plot
+11/06/2021 03:40:19 오후:DEBUG:randomforest:plot var importance
+11/06/2021 03:40:19 오후:DEBUG:randomforest:print final result
+11/06/2021 04:29:34 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/06/2021 04:29:34 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/06/2021 04:29:35 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/06/2021 04:29:35 오후:DEBUG:randomforest:load training data
+11/06/2021 04:29:35 오후:DEBUG:randomforest:fit
+11/06/2021 04:29:35 오후:DEBUG:randomforest:save model rds
+11/06/2021 04:29:35 오후:DEBUG:randomforest:get summary
+11/06/2021 04:29:35 오후:DEBUG:randomforest:get quantile
+11/06/2021 04:29:35 오후:DEBUG:randomforest:get importance
+11/06/2021 04:29:35 오후:DEBUG:randomforest:get varUsed
+11/06/2021 04:29:35 오후:DEBUG:randomforest:get error rate
+11/06/2021 04:29:35 오후:DEBUG:randomforest:get confusion matrix
+11/06/2021 04:29:35 오후:DEBUG:randomforest:error rate plot
+11/06/2021 04:29:35 오후:DEBUG:randomforest:plot var importance
+11/06/2021 04:29:35 오후:DEBUG:randomforest:print final result
+11/06/2021 04:44:43 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/06/2021 04:44:43 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/06/2021 04:44:43 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/06/2021 04:44:43 오후:DEBUG:randomforest:load training data
+11/06/2021 04:44:43 오후:DEBUG:randomforest:fit
+11/06/2021 04:44:43 오후:DEBUG:randomforest:save model rds
+11/06/2021 04:44:43 오후:DEBUG:randomforest:get summary
+11/06/2021 04:44:43 오후:DEBUG:randomforest:get quantile
+11/06/2021 04:44:43 오후:DEBUG:randomforest:get importance
+11/06/2021 04:44:43 오후:DEBUG:randomforest:get varUsed
+11/06/2021 04:44:43 오후:DEBUG:randomforest:get error rate
+11/06/2021 04:44:43 오후:DEBUG:randomforest:get confusion matrix
+11/06/2021 04:44:43 오후:DEBUG:randomforest:error rate plot
+11/06/2021 04:44:44 오후:DEBUG:randomforest:plot var importance
+11/06/2021 04:44:44 오후:DEBUG:randomforest:print final result
+11/08/2021 10:18:36 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/08/2021 10:18:36 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/08/2021 10:18:36 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='최대주입압력_Max_I0jectio0_Pressure_', x_names='양불판정결과,고압사출시간_I0jectio0_Time_,쿠션위치_Cushio0_Positio0_,스크류최대속도_Max_Screw_RPM_')
+11/08/2021 10:18:36 오전:DEBUG:randomforest:load training data
+11/08/2021 10:18:36 오전:DEBUG:randomforest:fit
+11/08/2021 10:18:37 오전:DEBUG:randomforest:save model rds
+11/08/2021 10:18:37 오전:DEBUG:randomforest:get summary
+11/08/2021 10:18:38 오전:DEBUG:randomforest:get quantile
+11/08/2021 10:18:38 오전:DEBUG:randomforest:get importance
+11/08/2021 10:18:38 오전:DEBUG:randomforest:get varUsed
+11/08/2021 10:18:38 오전:DEBUG:randomforest:get error rate
+11/08/2021 10:18:39 오전:DEBUG:randomforest:get confusion matrix
+11/08/2021 10:18:39 오전:DEBUG:randomforest:error rate plot
+11/08/2021 10:18:40 오전:DEBUG:randomforest:plot var importance
+11/08/2021 10:18:40 오전:DEBUG:randomforest:print final result
+11/11/2021 01:39:06 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/11/2021 01:39:06 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/11/2021 01:39:06 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/11/2021 01:39:06 오후:DEBUG:randomforest:load training data
+11/11/2021 01:39:06 오후:DEBUG:randomforest:fit
+11/11/2021 01:39:06 오후:DEBUG:randomforest:save model rds
+11/11/2021 01:39:06 오후:DEBUG:randomforest:get summary
+11/11/2021 01:39:06 오후:DEBUG:randomforest:get quantile
+11/11/2021 01:39:06 오후:DEBUG:randomforest:get importance
+11/11/2021 01:39:06 오후:DEBUG:randomforest:get varUsed
+11/11/2021 01:39:06 오후:DEBUG:randomforest:get error rate
+11/11/2021 01:39:06 오후:DEBUG:randomforest:get confusion matrix
+11/11/2021 01:39:06 오후:DEBUG:randomforest:error rate plot
+11/11/2021 01:39:07 오후:DEBUG:randomforest:plot var importance
+11/11/2021 01:39:07 오후:DEBUG:randomforest:print final result
+11/11/2021 01:40:20 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/11/2021 01:40:20 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/11/2021 01:40:20 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='최대주입압력_Max_I0jectio0_Pressure_', x_names='양불판정결과,고압사출시간_I0jectio0_Time_,쿠션위치_Cushio0_Positio0_,스크류최대속도_Max_Screw_RPM_')
+11/11/2021 01:40:20 오후:DEBUG:randomforest:load training data
+11/11/2021 01:40:20 오후:DEBUG:randomforest:fit
+11/11/2021 01:40:21 오후:DEBUG:randomforest:save model rds
+11/11/2021 01:40:21 오후:DEBUG:randomforest:get summary
+11/11/2021 01:40:22 오후:DEBUG:randomforest:get quantile
+11/11/2021 01:40:22 오후:DEBUG:randomforest:get importance
+11/11/2021 01:40:22 오후:DEBUG:randomforest:get varUsed
+11/11/2021 01:40:22 오후:DEBUG:randomforest:get error rate
+11/11/2021 01:40:23 오후:DEBUG:randomforest:get confusion matrix
+11/11/2021 01:40:23 오후:DEBUG:randomforest:error rate plot
+11/11/2021 01:40:23 오후:DEBUG:randomforest:plot var importance
+11/11/2021 01:40:23 오후:DEBUG:randomforest:print final result
+11/11/2021 03:52:35 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/11/2021 03:52:35 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/11/2021 03:52:35 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/11/2021 03:52:35 오후:DEBUG:randomforest:load training data
+11/11/2021 03:52:35 오후:DEBUG:randomforest:fit
+11/11/2021 03:52:35 오후:DEBUG:randomforest:save model rds
+11/11/2021 03:52:35 오후:DEBUG:randomforest:get summary
+11/11/2021 03:52:35 오후:DEBUG:randomforest:get quantile
+11/11/2021 03:52:35 오후:DEBUG:randomforest:get importance
+11/11/2021 03:52:35 오후:DEBUG:randomforest:get varUsed
+11/11/2021 03:52:35 오후:DEBUG:randomforest:get error rate
+11/11/2021 03:52:35 오후:DEBUG:randomforest:get confusion matrix
+11/11/2021 03:52:35 오후:DEBUG:randomforest:error rate plot
+11/11/2021 03:52:35 오후:DEBUG:randomforest:plot var importance
+11/11/2021 03:52:35 오후:DEBUG:randomforest:print final result
+11/16/2021 02:31:43 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/16/2021 02:31:43 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/16/2021 02:31:43 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/16/2021 02:31:43 오후:DEBUG:randomforest:load training data
+11/16/2021 02:31:43 오후:DEBUG:randomforest:fit
+11/16/2021 02:31:43 오후:DEBUG:randomforest:save model rds
+11/16/2021 02:31:43 오후:DEBUG:randomforest:get summary
+11/16/2021 02:31:43 오후:DEBUG:randomforest:get quantile
+11/16/2021 02:31:45 오후:DEBUG:randomforest:get importance
+11/16/2021 02:31:45 오후:DEBUG:randomforest:get varUsed
+11/16/2021 02:31:45 오후:DEBUG:randomforest:get error rate
+11/16/2021 02:31:45 오후:DEBUG:randomforest:get confusion matrix
+11/16/2021 02:31:45 오후:DEBUG:randomforest:error rate plot
+11/16/2021 02:31:45 오후:DEBUG:randomforest:plot var importance
+11/16/2021 02:31:45 오후:DEBUG:randomforest:print final result
+11/16/2021 02:31:59 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/16/2021 02:31:59 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/16/2021 02:32:00 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Press_time_ms_', x_names='idx,Machine_Name,Item_No,working_time')
+11/16/2021 02:32:00 오후:DEBUG:randomforest:load training data
+11/16/2021 02:32:00 오후:DEBUG:randomforest:fit
+11/16/2021 02:33:48 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/16/2021 02:33:48 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/16/2021 02:33:48 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/16/2021 02:33:48 오후:DEBUG:randomforest:load training data
+11/16/2021 02:33:48 오후:DEBUG:randomforest:fit
+11/16/2021 02:33:48 오후:DEBUG:randomforest:save model rds
+11/16/2021 02:33:48 오후:DEBUG:randomforest:get summary
+11/16/2021 02:33:48 오후:DEBUG:randomforest:get quantile
+11/16/2021 02:33:48 오후:DEBUG:randomforest:get importance
+11/16/2021 02:33:48 오후:DEBUG:randomforest:get varUsed
+11/16/2021 02:33:48 오후:DEBUG:randomforest:get error rate
+11/16/2021 02:33:48 오후:DEBUG:randomforest:get confusion matrix
+11/16/2021 02:33:48 오후:DEBUG:randomforest:error rate plot
+11/16/2021 02:33:48 오후:DEBUG:randomforest:plot var importance
+11/16/2021 02:33:48 오후:DEBUG:randomforest:print final result
+11/16/2021 02:33:56 오후:DEBUG:randomforest:save model rds
+11/16/2021 02:34:25 오후:DEBUG:randomforest:get summary
+11/16/2021 02:36:21 오후:DEBUG:randomforest:get quantile
+11/16/2021 02:36:21 오후:DEBUG:randomforest:get importance
+11/16/2021 02:36:21 오후:DEBUG:randomforest:get varUsed
+11/16/2021 02:36:21 오후:DEBUG:randomforest:get error rate
+11/16/2021 02:38:17 오후:DEBUG:randomforest:get confusion matrix
+11/16/2021 02:38:17 오후:DEBUG:randomforest:error rate plot
+11/16/2021 02:38:17 오후:DEBUG:randomforest:plot var importance
+11/16/2021 02:38:17 오후:DEBUG:randomforest:print final result
+11/16/2021 02:41:36 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/16/2021 02:41:36 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/16/2021 02:41:36 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Press_time_ms_', x_names='idx,Machine_Name,Item_No,working_time')
+11/16/2021 02:41:36 오후:DEBUG:randomforest:load training data
+11/16/2021 02:41:36 오후:DEBUG:randomforest:fit
+11/16/2021 02:43:32 오후:DEBUG:randomforest:save model rds
+11/16/2021 02:44:01 오후:DEBUG:randomforest:get summary
+11/16/2021 02:45:56 오후:DEBUG:randomforest:get quantile
+11/16/2021 02:45:56 오후:DEBUG:randomforest:get importance
+11/16/2021 02:45:56 오후:DEBUG:randomforest:get varUsed
+11/16/2021 02:45:56 오후:DEBUG:randomforest:get error rate
+11/16/2021 02:47:51 오후:DEBUG:randomforest:get confusion matrix
+11/16/2021 02:47:52 오후:DEBUG:randomforest:error rate plot
+11/16/2021 02:47:52 오후:DEBUG:randomforest:plot var importance
+11/16/2021 02:47:52 오후:DEBUG:randomforest:print final result
+11/19/2021 01:05:29 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/19/2021 01:05:29 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/19/2021 01:05:29 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/19/2021 01:05:29 오후:DEBUG:randomforest:load training data
+11/19/2021 01:05:29 오후:DEBUG:randomforest:fit
+11/19/2021 01:05:29 오후:DEBUG:randomforest:save model rds
+11/19/2021 01:05:29 오후:DEBUG:randomforest:get summary
+11/19/2021 01:05:29 오후:DEBUG:randomforest:get quantile
+11/19/2021 01:05:30 오후:DEBUG:randomforest:get importance
+11/19/2021 01:05:30 오후:DEBUG:randomforest:get varUsed
+11/19/2021 01:05:30 오후:DEBUG:randomforest:get error rate
+11/19/2021 01:05:30 오후:DEBUG:randomforest:get confusion matrix
+11/19/2021 01:05:30 오후:DEBUG:randomforest:error rate plot
+11/19/2021 01:05:30 오후:DEBUG:randomforest:plot var importance
+11/19/2021 01:05:30 오후:DEBUG:randomforest:print final result
+11/19/2021 02:55:32 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/19/2021 02:55:32 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/19/2021 02:55:32 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='DepTime', x_names='Year,Month,DayofMonth,DayOfWeek')
+11/19/2021 02:55:32 오후:DEBUG:randomforest:load training data
+11/19/2021 02:55:33 오후:DEBUG:randomforest:fit
+11/19/2021 02:59:42 오후:DEBUG:randomforest:save model rds
+11/19/2021 03:00:15 오후:DEBUG:randomforest:get summary
+11/19/2021 03:04:40 오후:DEBUG:randomforest:get quantile
+11/19/2021 03:04:41 오후:DEBUG:randomforest:get importance
+11/19/2021 03:04:41 오후:DEBUG:randomforest:get varUsed
+11/19/2021 03:04:41 오후:DEBUG:randomforest:get error rate
+11/19/2021 03:09:01 오후:DEBUG:randomforest:get confusion matrix
+11/19/2021 03:09:13 오후:DEBUG:randomforest:error rate plot
+11/19/2021 03:09:13 오후:DEBUG:randomforest:plot var importance
+11/19/2021 03:09:13 오후:DEBUG:randomforest:print final result
+11/20/2021 09:26:38 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/20/2021 09:26:38 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/20/2021 09:26:38 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/20/2021 09:26:38 오후:DEBUG:randomforest:load training data
+11/20/2021 09:26:38 오후:DEBUG:randomforest:fit
+11/20/2021 09:26:38 오후:DEBUG:randomforest:save model rds
+11/20/2021 09:26:38 오후:DEBUG:randomforest:get summary
+11/20/2021 09:26:38 오후:DEBUG:randomforest:get quantile
+11/20/2021 09:26:38 오후:DEBUG:randomforest:get importance
+11/20/2021 09:26:38 오후:DEBUG:randomforest:get varUsed
+11/20/2021 09:26:38 오후:DEBUG:randomforest:get error rate
+11/20/2021 09:26:38 오후:DEBUG:randomforest:get confusion matrix
+11/20/2021 09:26:38 오후:DEBUG:randomforest:error rate plot
+11/20/2021 09:26:38 오후:DEBUG:randomforest:plot var importance
+11/20/2021 09:26:39 오후:DEBUG:randomforest:print final result
+11/21/2021 04:11:48 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/21/2021 04:11:48 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/21/2021 04:11:49 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/21/2021 04:11:49 오후:DEBUG:randomforest:load training data
+11/21/2021 04:11:49 오후:DEBUG:randomforest:fit
+11/21/2021 04:11:49 오후:DEBUG:randomforest:save model rds
+11/21/2021 04:11:49 오후:DEBUG:randomforest:get summary
+11/21/2021 04:11:49 오후:DEBUG:randomforest:get quantile
+11/21/2021 04:11:49 오후:DEBUG:randomforest:get importance
+11/21/2021 04:11:49 오후:DEBUG:randomforest:get varUsed
+11/21/2021 04:11:49 오후:DEBUG:randomforest:get error rate
+11/21/2021 04:11:49 오후:DEBUG:randomforest:get confusion matrix
+11/21/2021 04:11:49 오후:DEBUG:randomforest:error rate plot
+11/21/2021 04:11:49 오후:DEBUG:randomforest:plot var importance
+11/21/2021 04:11:49 오후:DEBUG:randomforest:print final result
+11/22/2021 08:11:16 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/22/2021 08:11:16 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/22/2021 08:11:16 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/22/2021 08:11:16 오후:DEBUG:randomforest:load training data
+11/22/2021 08:11:16 오후:DEBUG:randomforest:fit
+11/22/2021 08:11:16 오후:DEBUG:randomforest:save model rds
+11/22/2021 08:11:16 오후:DEBUG:randomforest:get summary
+11/22/2021 08:11:16 오후:DEBUG:randomforest:get quantile
+11/22/2021 08:11:16 오후:DEBUG:randomforest:get importance
+11/22/2021 08:11:16 오후:DEBUG:randomforest:get varUsed
+11/22/2021 08:11:16 오후:DEBUG:randomforest:get error rate
+11/22/2021 08:11:16 오후:DEBUG:randomforest:get confusion matrix
+11/22/2021 08:11:16 오후:DEBUG:randomforest:error rate plot
+11/22/2021 08:11:16 오후:DEBUG:randomforest:plot var importance
+11/22/2021 08:11:16 오후:DEBUG:randomforest:print final result
+11/23/2021 03:12:41 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/23/2021 03:12:41 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/23/2021 03:12:41 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+11/23/2021 03:12:41 오후:DEBUG:randomforest:load training data
+11/23/2021 03:12:41 오후:DEBUG:randomforest:fit
+11/23/2021 03:12:41 오후:DEBUG:randomforest:save model rds
+11/23/2021 03:12:41 오후:DEBUG:randomforest:get summary
+11/23/2021 03:12:41 오후:DEBUG:randomforest:get quantile
+11/23/2021 03:12:41 오후:DEBUG:randomforest:get importance
+11/23/2021 03:12:41 오후:DEBUG:randomforest:get varUsed
+11/23/2021 03:12:41 오후:DEBUG:randomforest:get error rate
+11/23/2021 03:12:41 오후:DEBUG:randomforest:get confusion matrix
+11/23/2021 03:12:41 오후:DEBUG:randomforest:error rate plot
+11/23/2021 03:12:41 오후:DEBUG:randomforest:plot var importance
+11/23/2021 03:12:41 오후:DEBUG:randomforest:print final result
+11/23/2021 03:16:07 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/23/2021 03:16:07 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/23/2021 03:16:07 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Press_time_ms_', x_names='idx,Machine_Name,Item_No,working_time')
+11/23/2021 03:16:07 오후:DEBUG:randomforest:load training data
+11/23/2021 03:16:07 오후:DEBUG:randomforest:fit
+11/23/2021 03:18:03 오후:DEBUG:randomforest:save model rds
+11/23/2021 03:18:32 오후:DEBUG:randomforest:get summary
+11/23/2021 03:20:28 오후:DEBUG:randomforest:get quantile
+11/23/2021 03:20:28 오후:DEBUG:randomforest:get importance
+11/23/2021 03:20:28 오후:DEBUG:randomforest:get varUsed
+11/23/2021 03:20:28 오후:DEBUG:randomforest:get error rate
+11/23/2021 03:22:24 오후:DEBUG:randomforest:get confusion matrix
+11/23/2021 03:22:24 오후:DEBUG:randomforest:error rate plot
+11/23/2021 03:22:24 오후:DEBUG:randomforest:plot var importance
+11/23/2021 03:22:24 오후:DEBUG:randomforest:print final result
+11/23/2021 04:12:48 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/23/2021 04:12:48 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/23/2021 04:12:48 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='DepTime', x_names='Year,Month,DayofMonth,DayOfWeek')
+11/23/2021 04:12:48 오후:DEBUG:randomforest:load training data
+11/23/2021 04:12:48 오후:DEBUG:randomforest:fit
+11/23/2021 04:16:57 오후:DEBUG:randomforest:save model rds
+11/23/2021 04:17:27 오후:DEBUG:randomforest:get summary
+11/23/2021 04:21:37 오후:DEBUG:randomforest:get quantile
+11/23/2021 04:21:38 오후:DEBUG:randomforest:get importance
+11/23/2021 04:21:38 오후:DEBUG:randomforest:get varUsed
+11/23/2021 04:21:38 오후:DEBUG:randomforest:get error rate
+11/23/2021 04:25:51 오후:DEBUG:randomforest:get confusion matrix
+11/23/2021 04:26:02 오후:DEBUG:randomforest:error rate plot
+11/23/2021 04:26:03 오후:DEBUG:randomforest:plot var importance
+11/23/2021 04:26:03 오후:DEBUG:randomforest:print final result
+11/25/2021 11:59:17 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+11/25/2021 11:59:17 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/25/2021 11:59:18 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Argon', x_names='AMP1__R_,AMP1__S_,AMP1__T_')
+11/25/2021 11:59:18 오전:DEBUG:randomforest:load training data
+11/25/2021 11:59:18 오전:DEBUG:randomforest:fit
+11/25/2021 06:22:05 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+11/25/2021 06:22:05 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+11/25/2021 06:22:05 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='DepTime', x_names='Year,Month,DayofMonth,DayOfWeek')
+11/25/2021 06:22:05 오후:DEBUG:randomforest:load training data
+11/25/2021 06:22:05 오후:DEBUG:randomforest:fit
+11/25/2021 06:26:13 오후:DEBUG:randomforest:save model rds
+11/25/2021 06:26:44 오후:DEBUG:randomforest:get summary
+11/25/2021 06:31:03 오후:DEBUG:randomforest:get quantile
+11/25/2021 06:31:04 오후:DEBUG:randomforest:get importance
+11/25/2021 06:31:04 오후:DEBUG:randomforest:get varUsed
+11/25/2021 06:31:04 오후:DEBUG:randomforest:get error rate
+11/25/2021 06:35:16 오후:DEBUG:randomforest:get confusion matrix
+11/25/2021 06:35:28 오후:DEBUG:randomforest:error rate plot
+11/25/2021 06:35:28 오후:DEBUG:randomforest:plot var importance
+11/25/2021 06:35:28 오후:DEBUG:randomforest:print final result
+12/01/2021 12:35:56 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/01/2021 12:35:56 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/01/2021 12:35:56 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/01/2021 12:35:56 오후:DEBUG:randomforest:load training data
+12/01/2021 12:35:56 오후:DEBUG:randomforest:fit
+12/01/2021 12:35:56 오후:DEBUG:randomforest:save model rds
+12/01/2021 12:35:56 오후:DEBUG:randomforest:get summary
+12/01/2021 12:35:56 오후:DEBUG:randomforest:get quantile
+12/01/2021 12:35:56 오후:DEBUG:randomforest:get importance
+12/01/2021 12:35:56 오후:DEBUG:randomforest:get varUsed
+12/01/2021 12:35:56 오후:DEBUG:randomforest:get error rate
+12/01/2021 12:35:56 오후:DEBUG:randomforest:get confusion matrix
+12/01/2021 12:35:56 오후:DEBUG:randomforest:error rate plot
+12/01/2021 12:35:56 오후:DEBUG:randomforest:plot var importance
+12/01/2021 12:35:56 오후:DEBUG:randomforest:print final result
+12/01/2021 01:36:55 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/01/2021 01:36:55 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/01/2021 01:36:55 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/01/2021 01:36:55 오후:DEBUG:randomforest:load training data
+12/01/2021 01:36:55 오후:DEBUG:randomforest:fit
+12/01/2021 01:36:55 오후:DEBUG:randomforest:save model rds
+12/01/2021 01:36:55 오후:DEBUG:randomforest:get summary
+12/01/2021 01:36:55 오후:DEBUG:randomforest:get quantile
+12/01/2021 01:36:55 오후:DEBUG:randomforest:get importance
+12/01/2021 01:36:55 오후:DEBUG:randomforest:get varUsed
+12/01/2021 01:36:55 오후:DEBUG:randomforest:get error rate
+12/01/2021 01:36:55 오후:DEBUG:randomforest:get confusion matrix
+12/01/2021 01:36:55 오후:DEBUG:randomforest:error rate plot
+12/01/2021 01:36:55 오후:DEBUG:randomforest:plot var importance
+12/01/2021 01:36:55 오후:DEBUG:randomforest:print final result
+12/01/2021 04:18:56 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/01/2021 04:18:56 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/01/2021 04:18:56 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/01/2021 04:18:56 오후:DEBUG:randomforest:load training data
+12/01/2021 04:18:56 오후:DEBUG:randomforest:fit
+12/01/2021 04:18:56 오후:DEBUG:randomforest:save model rds
+12/01/2021 04:18:56 오후:DEBUG:randomforest:get summary
+12/01/2021 04:18:56 오후:DEBUG:randomforest:get quantile
+12/01/2021 04:18:56 오후:DEBUG:randomforest:get importance
+12/01/2021 04:18:56 오후:DEBUG:randomforest:get varUsed
+12/01/2021 04:18:56 오후:DEBUG:randomforest:get error rate
+12/01/2021 04:18:56 오후:DEBUG:randomforest:get confusion matrix
+12/01/2021 04:18:56 오후:DEBUG:randomforest:error rate plot
+12/01/2021 04:18:56 오후:DEBUG:randomforest:plot var importance
+12/01/2021 04:18:56 오후:DEBUG:randomforest:print final result
+12/02/2021 10:56:28 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+12/02/2021 10:56:28 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/02/2021 10:56:28 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/02/2021 10:56:28 오전:DEBUG:randomforest:load training data
+12/02/2021 10:56:28 오전:DEBUG:randomforest:fit
+12/02/2021 10:56:28 오전:DEBUG:randomforest:save model rds
+12/02/2021 10:56:28 오전:DEBUG:randomforest:get summary
+12/02/2021 10:56:28 오전:DEBUG:randomforest:get quantile
+12/02/2021 10:56:28 오전:DEBUG:randomforest:get importance
+12/02/2021 10:56:28 오전:DEBUG:randomforest:get varUsed
+12/02/2021 10:56:28 오전:DEBUG:randomforest:get error rate
+12/02/2021 10:56:28 오전:DEBUG:randomforest:get confusion matrix
+12/02/2021 10:56:28 오전:DEBUG:randomforest:error rate plot
+12/02/2021 10:56:28 오전:DEBUG:randomforest:plot var importance
+12/02/2021 10:56:29 오전:DEBUG:randomforest:print final result
+12/02/2021 03:59:54 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/02/2021 03:59:54 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/02/2021 03:59:54 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/02/2021 03:59:54 오후:DEBUG:randomforest:load training data
+12/02/2021 03:59:54 오후:DEBUG:randomforest:fit
+12/02/2021 03:59:54 오후:DEBUG:randomforest:save model rds
+12/02/2021 03:59:54 오후:DEBUG:randomforest:get summary
+12/02/2021 03:59:54 오후:DEBUG:randomforest:get quantile
+12/02/2021 03:59:54 오후:DEBUG:randomforest:get importance
+12/02/2021 03:59:54 오후:DEBUG:randomforest:get varUsed
+12/02/2021 03:59:54 오후:DEBUG:randomforest:get error rate
+12/02/2021 03:59:54 오후:DEBUG:randomforest:get confusion matrix
+12/02/2021 03:59:54 오후:DEBUG:randomforest:error rate plot
+12/02/2021 03:59:54 오후:DEBUG:randomforest:plot var importance
+12/02/2021 03:59:54 오후:DEBUG:randomforest:print final result
+12/03/2021 09:23:34 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+12/03/2021 09:23:34 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/03/2021 09:23:34 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/03/2021 09:23:34 오전:DEBUG:randomforest:load training data
+12/03/2021 09:23:34 오전:DEBUG:randomforest:fit
+12/03/2021 09:23:34 오전:DEBUG:randomforest:save model rds
+12/03/2021 09:23:34 오전:DEBUG:randomforest:get summary
+12/03/2021 09:23:34 오전:DEBUG:randomforest:get quantile
+12/03/2021 09:23:34 오전:DEBUG:randomforest:get importance
+12/03/2021 09:23:34 오전:DEBUG:randomforest:get varUsed
+12/03/2021 09:23:34 오전:DEBUG:randomforest:get error rate
+12/03/2021 09:23:34 오전:DEBUG:randomforest:get confusion matrix
+12/03/2021 09:23:34 오전:DEBUG:randomforest:error rate plot
+12/03/2021 09:23:35 오전:DEBUG:randomforest:plot var importance
+12/03/2021 09:23:35 오전:DEBUG:randomforest:print final result
+12/03/2021 11:09:36 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+12/03/2021 11:09:36 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/03/2021 11:09:37 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/03/2021 11:09:37 오전:DEBUG:randomforest:load training data
+12/03/2021 11:09:37 오전:DEBUG:randomforest:fit
+12/03/2021 11:09:37 오전:DEBUG:randomforest:save model rds
+12/03/2021 11:09:37 오전:DEBUG:randomforest:get summary
+12/03/2021 11:09:37 오전:DEBUG:randomforest:get quantile
+12/03/2021 11:09:37 오전:DEBUG:randomforest:get importance
+12/03/2021 11:09:37 오전:DEBUG:randomforest:get varUsed
+12/03/2021 11:09:37 오전:DEBUG:randomforest:get error rate
+12/03/2021 11:09:37 오전:DEBUG:randomforest:get confusion matrix
+12/03/2021 11:09:37 오전:DEBUG:randomforest:error rate plot
+12/03/2021 11:09:37 오전:DEBUG:randomforest:plot var importance
+12/03/2021 11:09:37 오전:DEBUG:randomforest:print final result
+12/03/2021 03:34:40 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/03/2021 03:34:40 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/03/2021 03:34:40 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/03/2021 03:34:40 오후:DEBUG:randomforest:load training data
+12/03/2021 03:34:40 오후:DEBUG:randomforest:fit
+12/03/2021 03:34:40 오후:DEBUG:randomforest:save model rds
+12/03/2021 03:34:40 오후:DEBUG:randomforest:get summary
+12/03/2021 03:34:40 오후:DEBUG:randomforest:get quantile
+12/03/2021 03:34:40 오후:DEBUG:randomforest:get importance
+12/03/2021 03:34:40 오후:DEBUG:randomforest:get varUsed
+12/03/2021 03:34:40 오후:DEBUG:randomforest:get error rate
+12/03/2021 03:34:40 오후:DEBUG:randomforest:get confusion matrix
+12/03/2021 03:34:40 오후:DEBUG:randomforest:error rate plot
+12/03/2021 03:34:41 오후:DEBUG:randomforest:plot var importance
+12/03/2021 03:34:41 오후:DEBUG:randomforest:print final result
+12/08/2021 03:06:04 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/08/2021 03:06:04 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/08/2021 03:06:04 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/08/2021 03:06:04 오후:DEBUG:randomforest:load training data
+12/08/2021 03:06:04 오후:DEBUG:randomforest:fit
+12/08/2021 03:06:04 오후:DEBUG:randomforest:save model rds
+12/08/2021 03:06:04 오후:DEBUG:randomforest:get summary
+12/08/2021 03:06:04 오후:DEBUG:randomforest:get quantile
+12/08/2021 03:06:04 오후:DEBUG:randomforest:get importance
+12/08/2021 03:06:04 오후:DEBUG:randomforest:get varUsed
+12/08/2021 03:06:04 오후:DEBUG:randomforest:get error rate
+12/08/2021 03:06:04 오후:DEBUG:randomforest:get confusion matrix
+12/08/2021 03:06:04 오후:DEBUG:randomforest:error rate plot
+12/08/2021 03:06:05 오후:DEBUG:randomforest:plot var importance
+12/08/2021 03:06:05 오후:DEBUG:randomforest:print final result
+12/08/2021 09:47:02 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/08/2021 09:47:02 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/08/2021 09:47:02 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Press_time_ms_', x_names='idx,Machine_Name,Item_No,working_time')
+12/08/2021 09:47:02 오후:DEBUG:randomforest:load training data
+12/08/2021 09:47:03 오후:DEBUG:randomforest:fit
+12/08/2021 09:48:57 오후:DEBUG:randomforest:save model rds
+12/08/2021 09:49:26 오후:DEBUG:randomforest:get summary
+12/08/2021 09:51:21 오후:DEBUG:randomforest:get quantile
+12/08/2021 09:51:21 오후:DEBUG:randomforest:get importance
+12/08/2021 09:51:21 오후:DEBUG:randomforest:get varUsed
+12/08/2021 09:51:22 오후:DEBUG:randomforest:get error rate
+12/08/2021 09:53:17 오후:DEBUG:randomforest:get confusion matrix
+12/08/2021 09:53:17 오후:DEBUG:randomforest:error rate plot
+12/08/2021 09:53:17 오후:DEBUG:randomforest:plot var importance
+12/08/2021 09:53:17 오후:DEBUG:randomforest:print final result
+12/09/2021 12:16:35 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/09/2021 12:16:35 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/09/2021 12:16:35 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/09/2021 12:16:35 오후:DEBUG:randomforest:load training data
+12/09/2021 12:16:35 오후:DEBUG:randomforest:fit
+12/09/2021 12:16:35 오후:DEBUG:randomforest:save model rds
+12/09/2021 12:16:35 오후:DEBUG:randomforest:get summary
+12/09/2021 12:16:35 오후:DEBUG:randomforest:get quantile
+12/09/2021 12:16:35 오후:DEBUG:randomforest:get importance
+12/09/2021 12:16:35 오후:DEBUG:randomforest:get varUsed
+12/09/2021 12:16:35 오후:DEBUG:randomforest:get error rate
+12/09/2021 12:16:35 오후:DEBUG:randomforest:get confusion matrix
+12/09/2021 12:16:35 오후:DEBUG:randomforest:error rate plot
+12/09/2021 12:16:36 오후:DEBUG:randomforest:plot var importance
+12/09/2021 12:16:36 오후:DEBUG:randomforest:print final result
+12/09/2021 12:23:44 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/09/2021 12:23:44 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/09/2021 12:23:44 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/09/2021 12:23:44 오후:DEBUG:randomforest:load training data
+12/09/2021 12:23:44 오후:DEBUG:randomforest:fit
+12/09/2021 12:23:44 오후:DEBUG:randomforest:save model rds
+12/09/2021 12:23:44 오후:DEBUG:randomforest:get summary
+12/09/2021 12:23:44 오후:DEBUG:randomforest:get quantile
+12/09/2021 12:23:44 오후:DEBUG:randomforest:get importance
+12/09/2021 12:23:44 오후:DEBUG:randomforest:get varUsed
+12/09/2021 12:23:44 오후:DEBUG:randomforest:get error rate
+12/09/2021 12:23:44 오후:DEBUG:randomforest:get confusion matrix
+12/09/2021 12:23:45 오후:DEBUG:randomforest:error rate plot
+12/09/2021 12:23:45 오후:DEBUG:randomforest:plot var importance
+12/09/2021 12:23:45 오후:DEBUG:randomforest:print final result
+12/09/2021 12:25:14 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/09/2021 12:25:14 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/09/2021 12:25:14 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Press_time_ms_', x_names='idx,Machine_Name,Item_No,working_time')
+12/09/2021 12:25:14 오후:DEBUG:randomforest:load training data
+12/09/2021 12:25:14 오후:DEBUG:randomforest:fit
+12/09/2021 12:26:04 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/09/2021 12:26:04 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/09/2021 12:26:04 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='INNER_PRESS', x_names='AMP1__R_,AMP1__S_,AMP1__T_,Argon')
+12/09/2021 12:26:04 오후:DEBUG:randomforest:load training data
+12/09/2021 12:26:04 오후:DEBUG:randomforest:fit
+12/09/2021 12:26:04 오후:WARNING:R[write to console]: Error in randomForest.default(m, y, ...) : 
+  Need at least two classes to do classification.
+
+12/09/2021 12:26:04 오후:ERROR:Error in randomForest.default(m, y, ...) : 
+  Need at least two classes to do classification.
+
+12/09/2021 12:26:04 오후:DEBUG:randomforest:save model rds
+12/09/2021 12:26:04 오후:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+12/09/2021 12:26:04 오후:ERROR:Error in saveRDS(credit_rf, file = "/lite/model/admin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+12/09/2021 12:27:09 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/09/2021 12:27:09 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/09/2021 12:27:09 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/09/2021 12:27:09 오후:DEBUG:randomforest:load training data
+12/09/2021 12:27:09 오후:DEBUG:randomforest:fit
+12/09/2021 12:27:09 오후:DEBUG:randomforest:save model rds
+12/09/2021 12:27:09 오후:DEBUG:randomforest:get summary
+12/09/2021 12:27:09 오후:DEBUG:randomforest:get quantile
+12/09/2021 12:27:09 오후:DEBUG:randomforest:get importance
+12/09/2021 12:27:09 오후:DEBUG:randomforest:get varUsed
+12/09/2021 12:27:09 오후:DEBUG:randomforest:get error rate
+12/09/2021 12:27:09 오후:DEBUG:randomforest:get confusion matrix
+12/09/2021 12:27:09 오후:DEBUG:randomforest:error rate plot
+12/09/2021 12:27:09 오후:DEBUG:randomforest:plot var importance
+12/09/2021 12:27:09 오후:DEBUG:randomforest:print final result
+12/09/2021 12:27:14 오후:DEBUG:randomforest:save model rds
+12/09/2021 12:27:44 오후:DEBUG:randomforest:get summary
+12/09/2021 12:29:40 오후:DEBUG:randomforest:get quantile
+12/09/2021 12:29:40 오후:DEBUG:randomforest:get importance
+12/09/2021 12:29:40 오후:DEBUG:randomforest:get varUsed
+12/09/2021 12:29:40 오후:DEBUG:randomforest:get error rate
+12/09/2021 12:31:36 오후:DEBUG:randomforest:get confusion matrix
+12/09/2021 12:31:36 오후:DEBUG:randomforest:error rate plot
+12/09/2021 12:31:36 오후:DEBUG:randomforest:plot var importance
+12/09/2021 12:31:36 오후:DEBUG:randomforest:print final result
+12/09/2021 03:56:54 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/09/2021 03:56:54 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/09/2021 03:56:55 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/09/2021 03:56:55 오후:DEBUG:randomforest:load training data
+12/09/2021 03:56:55 오후:DEBUG:randomforest:fit
+12/09/2021 03:56:55 오후:DEBUG:randomforest:save model rds
+12/09/2021 03:56:55 오후:DEBUG:randomforest:get summary
+12/09/2021 03:56:55 오후:DEBUG:randomforest:get quantile
+12/09/2021 03:56:55 오후:DEBUG:randomforest:get importance
+12/09/2021 03:56:55 오후:DEBUG:randomforest:get varUsed
+12/09/2021 03:56:55 오후:DEBUG:randomforest:get error rate
+12/09/2021 03:56:55 오후:DEBUG:randomforest:get confusion matrix
+12/09/2021 03:56:55 오후:DEBUG:randomforest:error rate plot
+12/09/2021 03:56:55 오후:DEBUG:randomforest:plot var importance
+12/09/2021 03:56:55 오후:DEBUG:randomforest:print final result
+12/13/2021 10:01:43 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+12/13/2021 10:01:43 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/13/2021 10:01:44 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='최대주입압력_Max_I0jectio0_Pressure_', x_names='양불판정결과,고압사출시간_I0jectio0_Time_,쿠션위치_Cushio0_Positio0_,스크류최대속도_Max_Screw_RPM_')
+12/13/2021 10:01:44 오전:ERROR:'최대주입압력_Max_I0jectio0_Pressure_'
+12/13/2021 10:01:52 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+12/13/2021 10:01:52 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/13/2021 10:01:52 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='Press_time_ms_', x_names='idx,Machine_Name,Item_No,working_time')
+12/13/2021 10:01:52 오전:DEBUG:randomforest:load training data
+12/13/2021 10:01:53 오전:DEBUG:randomforest:fit
+12/13/2021 10:02:39 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+12/13/2021 10:02:39 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/13/2021 10:02:39 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='wdate', x_names='rno,url,uid,ip')
+12/13/2021 10:02:39 오전:ERROR:'wdate'
+12/13/2021 10:02:42 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+12/13/2021 10:02:42 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/13/2021 10:02:42 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/13/2021 10:02:42 오전:DEBUG:randomforest:load training data
+12/13/2021 10:02:42 오전:DEBUG:randomforest:fit
+12/13/2021 10:02:42 오전:DEBUG:randomforest:save model rds
+12/13/2021 10:02:42 오전:DEBUG:randomforest:get summary
+12/13/2021 10:02:42 오전:DEBUG:randomforest:get quantile
+12/13/2021 10:02:43 오전:DEBUG:randomforest:get importance
+12/13/2021 10:02:43 오전:DEBUG:randomforest:get varUsed
+12/13/2021 10:02:43 오전:DEBUG:randomforest:get error rate
+12/13/2021 10:02:43 오전:DEBUG:randomforest:get confusion matrix
+12/13/2021 10:02:43 오전:DEBUG:randomforest:error rate plot
+12/13/2021 10:02:43 오전:DEBUG:randomforest:plot var importance
+12/13/2021 10:02:43 오전:DEBUG:randomforest:print final result
+12/13/2021 10:03:58 오전:DEBUG:randomforest:save model rds
+12/13/2021 10:04:27 오전:DEBUG:randomforest:get summary
+12/13/2021 10:06:25 오전:DEBUG:randomforest:get quantile
+12/13/2021 10:06:26 오전:DEBUG:randomforest:get importance
+12/13/2021 10:06:27 오전:DEBUG:randomforest:get varUsed
+12/13/2021 10:06:27 오전:DEBUG:randomforest:get error rate
+12/13/2021 10:08:22 오전:DEBUG:randomforest:get confusion matrix
+12/13/2021 10:08:23 오전:DEBUG:randomforest:error rate plot
+12/13/2021 10:08:23 오전:DEBUG:randomforest:plot var importance
+12/13/2021 10:08:23 오전:DEBUG:randomforest:print final result
+12/13/2021 10:26:30 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+12/13/2021 10:26:30 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/13/2021 10:26:30 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='DepTime', x_names='Year,Month,DayofMonth,DayOfWeek')
+12/13/2021 10:26:30 오전:ERROR:'DepTime'
+12/20/2021 02:29:46 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/20/2021 02:29:47 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/20/2021 02:29:47 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/20/2021 02:29:47 오후:DEBUG:randomforest:load training data
+12/20/2021 02:29:47 오후:DEBUG:randomforest:fit
+12/20/2021 02:29:47 오후:DEBUG:randomforest:save model rds
+12/20/2021 02:29:47 오후:DEBUG:randomforest:get summary
+12/20/2021 02:29:47 오후:DEBUG:randomforest:get quantile
+12/20/2021 02:29:48 오후:DEBUG:randomforest:get importance
+12/20/2021 02:29:48 오후:DEBUG:randomforest:get varUsed
+12/20/2021 02:29:48 오후:DEBUG:randomforest:get error rate
+12/20/2021 02:29:48 오후:DEBUG:randomforest:get confusion matrix
+12/20/2021 02:29:48 오후:DEBUG:randomforest:error rate plot
+12/20/2021 02:29:48 오후:DEBUG:randomforest:plot var importance
+12/20/2021 02:29:48 오후:DEBUG:randomforest:print final result
+12/28/2021 10:02:26 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/28/2021 10:02:26 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/28/2021 10:02:26 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/28/2021 10:02:26 오후:DEBUG:randomforest:load training data
+12/28/2021 10:02:26 오후:DEBUG:randomforest:fit
+12/28/2021 10:02:26 오후:DEBUG:randomforest:save model rds
+12/28/2021 10:02:26 오후:DEBUG:randomforest:get summary
+12/28/2021 10:02:26 오후:DEBUG:randomforest:get quantile
+12/28/2021 10:02:26 오후:DEBUG:randomforest:get importance
+12/28/2021 10:02:26 오후:DEBUG:randomforest:get varUsed
+12/28/2021 10:02:26 오후:DEBUG:randomforest:get error rate
+12/28/2021 10:02:26 오후:DEBUG:randomforest:get confusion matrix
+12/28/2021 10:02:26 오후:DEBUG:randomforest:error rate plot
+12/28/2021 10:02:26 오후:DEBUG:randomforest:plot var importance
+12/28/2021 10:02:26 오후:DEBUG:randomforest:print final result
+12/30/2021 02:02:00 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/30/2021 02:02:00 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/30/2021 02:02:00 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/30/2021 02:02:00 오후:DEBUG:randomforest:load training data
+12/30/2021 02:02:00 오후:DEBUG:randomforest:fit
+12/30/2021 02:02:00 오후:DEBUG:randomforest:save model rds
+12/30/2021 02:02:00 오후:DEBUG:randomforest:get summary
+12/30/2021 02:02:00 오후:DEBUG:randomforest:get quantile
+12/30/2021 02:02:00 오후:DEBUG:randomforest:get importance
+12/30/2021 02:02:00 오후:DEBUG:randomforest:get varUsed
+12/30/2021 02:02:00 오후:DEBUG:randomforest:get error rate
+12/30/2021 02:02:00 오후:DEBUG:randomforest:get confusion matrix
+12/30/2021 02:02:00 오후:DEBUG:randomforest:error rate plot
+12/30/2021 02:02:01 오후:DEBUG:randomforest:plot var importance
+12/30/2021 02:02:01 오후:DEBUG:randomforest:print final result
+12/31/2021 12:07:22 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+12/31/2021 12:07:22 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+12/31/2021 12:07:22 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+12/31/2021 12:07:22 오후:DEBUG:randomforest:load training data
+12/31/2021 12:07:22 오후:DEBUG:randomforest:fit
+12/31/2021 12:07:22 오후:DEBUG:randomforest:save model rds
+12/31/2021 12:07:22 오후:DEBUG:randomforest:get summary
+12/31/2021 12:07:22 오후:DEBUG:randomforest:get quantile
+12/31/2021 12:07:22 오후:DEBUG:randomforest:get importance
+12/31/2021 12:07:22 오후:DEBUG:randomforest:get varUsed
+12/31/2021 12:07:22 오후:DEBUG:randomforest:get error rate
+12/31/2021 12:07:22 오후:DEBUG:randomforest:get confusion matrix
+12/31/2021 12:07:22 오후:DEBUG:randomforest:error rate plot
+12/31/2021 12:07:23 오후:DEBUG:randomforest:plot var importance
+12/31/2021 12:07:23 오후:DEBUG:randomforest:print final result
+01/11/2022 10:38:05 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+01/11/2022 10:38:05 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+01/11/2022 10:38:05 오전:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+01/11/2022 10:38:05 오전:DEBUG:randomforest:load training data
+01/11/2022 10:38:05 오전:DEBUG:randomforest:fit
+01/11/2022 10:38:05 오전:DEBUG:randomforest:save model rds
+01/11/2022 10:38:05 오전:DEBUG:randomforest:get summary
+01/11/2022 10:38:05 오전:DEBUG:randomforest:get quantile
+01/11/2022 10:38:05 오전:DEBUG:randomforest:get importance
+01/11/2022 10:38:05 오전:DEBUG:randomforest:get varUsed
+01/11/2022 10:38:05 오전:DEBUG:randomforest:get error rate
+01/11/2022 10:38:05 오전:DEBUG:randomforest:get confusion matrix
+01/11/2022 10:38:05 오전:DEBUG:randomforest:error rate plot
+01/11/2022 10:38:06 오전:DEBUG:randomforest:plot var importance
+01/11/2022 10:38:06 오전:DEBUG:randomforest:print final result
+01/20/2022 03:46:00 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+01/20/2022 03:46:00 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+01/20/2022 03:46:01 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+01/20/2022 03:46:01 오후:DEBUG:randomforest:load training data
+01/20/2022 03:46:01 오후:DEBUG:randomforest:fit
+01/20/2022 03:46:01 오후:DEBUG:randomforest:save model rds
+01/20/2022 03:46:01 오후:DEBUG:randomforest:get summary
+01/20/2022 03:46:01 오후:DEBUG:randomforest:get quantile
+01/20/2022 03:46:01 오후:DEBUG:randomforest:get importance
+01/20/2022 03:46:01 오후:DEBUG:randomforest:get varUsed
+01/20/2022 03:46:01 오후:DEBUG:randomforest:get error rate
+01/20/2022 03:46:01 오후:DEBUG:randomforest:get confusion matrix
+01/20/2022 03:46:01 오후:DEBUG:randomforest:error rate plot
+01/20/2022 03:46:01 오후:DEBUG:randomforest:plot var importance
+01/20/2022 03:46:01 오후:DEBUG:randomforest:print final result
+01/21/2022 05:02:22 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+01/21/2022 05:02:22 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+01/21/2022 05:02:22 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+01/21/2022 05:02:22 오후:DEBUG:randomforest:load training data
+01/21/2022 05:02:22 오후:DEBUG:randomforest:fit
+01/21/2022 05:02:22 오후:DEBUG:randomforest:save model rds
+01/21/2022 05:02:22 오후:DEBUG:randomforest:get summary
+01/21/2022 05:02:22 오후:DEBUG:randomforest:get quantile
+01/21/2022 05:02:22 오후:DEBUG:randomforest:get importance
+01/21/2022 05:02:22 오후:DEBUG:randomforest:get varUsed
+01/21/2022 05:02:22 오후:DEBUG:randomforest:get error rate
+01/21/2022 05:02:22 오후:DEBUG:randomforest:get confusion matrix
+01/21/2022 05:02:22 오후:DEBUG:randomforest:error rate plot
+01/21/2022 05:02:22 오후:DEBUG:randomforest:plot var importance
+01/21/2022 05:02:22 오후:DEBUG:randomforest:print final result
+02/24/2022 01:02:20 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+02/24/2022 01:02:20 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+02/24/2022 01:02:20 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+02/24/2022 01:02:20 오후:DEBUG:randomforest:load training data
+02/24/2022 01:02:20 오후:DEBUG:randomforest:fit
+02/24/2022 01:02:20 오후:DEBUG:randomforest:save model rds
+02/24/2022 01:02:20 오후:DEBUG:randomforest:get summary
+02/24/2022 01:02:20 오후:DEBUG:randomforest:get quantile
+02/24/2022 01:02:22 오후:DEBUG:randomforest:get importance
+02/24/2022 01:02:22 오후:DEBUG:randomforest:get varUsed
+02/24/2022 01:02:22 오후:DEBUG:randomforest:get error rate
+02/24/2022 01:02:22 오후:DEBUG:randomforest:get confusion matrix
+02/24/2022 01:02:22 오후:DEBUG:randomforest:error rate plot
+02/24/2022 01:02:22 오후:DEBUG:randomforest:plot var importance
+02/24/2022 01:02:22 오후:DEBUG:randomforest:print final result
+03/22/2022 09:20:14 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+03/22/2022 09:20:14 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+03/22/2022 09:20:14 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+03/22/2022 09:20:14 오후:DEBUG:randomforest:load training data
+03/22/2022 09:20:14 오후:DEBUG:randomforest:fit
+03/22/2022 09:20:14 오후:DEBUG:randomforest:save model rds
+03/22/2022 09:20:14 오후:DEBUG:randomforest:get summary
+03/22/2022 09:20:14 오후:DEBUG:randomforest:get quantile
+03/22/2022 09:20:14 오후:DEBUG:randomforest:get importance
+03/22/2022 09:20:14 오후:DEBUG:randomforest:get varUsed
+03/22/2022 09:20:14 오후:DEBUG:randomforest:get error rate
+03/22/2022 09:20:14 오후:DEBUG:randomforest:get confusion matrix
+03/22/2022 09:20:14 오후:DEBUG:randomforest:error rate plot
+03/22/2022 09:20:14 오후:DEBUG:randomforest:plot var importance
+03/22/2022 09:20:15 오후:DEBUG:randomforest:print final result
+03/28/2022 06:35:34 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+03/28/2022 06:35:34 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+03/28/2022 06:35:34 오후:DEBUG:Namespace(fun='fit', input_path='/lite/upload/admin/autoanalysis.csv.csv', model_path='/lite/model/admin//randomforest.model', numoftree=500, random_start=123, target_name='기술2', x_names='ID,기술점수,예술점수,기술1')
+03/28/2022 06:35:34 오후:DEBUG:randomforest:load training data
+03/28/2022 06:35:34 오후:DEBUG:randomforest:fit
+03/28/2022 06:35:34 오후:DEBUG:randomforest:save model rds
+03/28/2022 06:35:34 오후:DEBUG:randomforest:get summary
+03/28/2022 06:35:34 오후:DEBUG:randomforest:get quantile
+03/28/2022 06:35:34 오후:DEBUG:randomforest:get importance
+03/28/2022 06:35:34 오후:DEBUG:randomforest:get varUsed
+03/28/2022 06:35:34 오후:DEBUG:randomforest:get error rate
+03/28/2022 06:35:34 오후:DEBUG:randomforest:get confusion matrix
+03/28/2022 06:35:34 오후:DEBUG:randomforest:error rate plot
+03/28/2022 06:35:34 오후:DEBUG:randomforest:plot var importance
+03/28/2022 06:35:34 오후:DEBUG:randomforest:print final result
+08/17/2022 04:39:00 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+08/17/2022 04:39:00 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+08/17/2022 04:39:01 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='냉음료판매량', x_names='기온,도너츠판매량,습도')
+08/17/2022 04:39:01 오후:DEBUG:randomforest:load training data
+08/17/2022 04:39:01 오후:DEBUG:randomforest:fit
+08/17/2022 04:39:01 오후:DEBUG:randomforest:save model rds
+08/17/2022 04:39:01 오후:WARNING:R[write to console]: Error in gzfile(file, mode) : 커넥션을 열 수 없습니다
+
+08/17/2022 04:39:01 오후:WARNING:R[write to console]: 추가정보: 
+08/17/2022 04:39:01 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+08/17/2022 04:39:01 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/17/2022 04:39:01 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/17/2022 04:39:01 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/17/2022 04:39:01 오후:WARNING:R[write to console]: 4: 
+08/17/2022 04:39:01 오후:WARNING:R[write to console]: In gzfile(file, mode) :
+08/17/2022 04:39:01 오후:WARNING:R[write to console]: 
+ 
+08/17/2022 04:39:01 오후:WARNING:R[write to console]:  압축된 파일 '/lite2/model/krmin//randomforest.model'를 열 수 없습니다.  그 이유는 아마도 '그런 파일이나 디렉터리가 없습니다'입니다
+
+08/17/2022 04:39:01 오후:ERROR:Error in gzfile(file, mode) : 커넥션을 열 수 없습니다
+
+08/19/2022 09:54:15 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+08/19/2022 09:54:15 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+08/19/2022 09:54:16 오전:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='냉음료판매량', x_names='기온,도너츠판매량,습도')
+08/19/2022 09:54:16 오전:DEBUG:randomforest:load training data
+08/19/2022 09:54:16 오전:DEBUG:randomforest:fit
+08/19/2022 09:54:16 오전:DEBUG:randomforest:save model rds
+08/19/2022 09:54:16 오전:DEBUG:randomforest:get summary
+08/19/2022 09:54:16 오전:DEBUG:randomforest:get quantile
+08/19/2022 09:54:18 오전:DEBUG:randomforest:get importance
+08/19/2022 09:54:18 오전:DEBUG:randomforest:get varUsed
+08/19/2022 09:54:18 오전:DEBUG:randomforest:get error rate
+08/19/2022 09:54:18 오전:DEBUG:randomforest:get confusion matrix
+08/19/2022 09:54:18 오전:DEBUG:randomforest:error rate plot
+08/19/2022 09:54:18 오전:DEBUG:randomforest:plot var importance
+08/19/2022 09:54:18 오전:DEBUG:randomforest:print final result
+08/19/2022 09:54:18 오전:WARNING:R[write to console]: 경고메시지(들): 
+
+08/19/2022 09:54:18 오전:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/19/2022 09:54:18 오전:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/19/2022 09:54:18 오전:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/19/2022 12:59:43 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+08/19/2022 12:59:43 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+08/19/2022 12:59:43 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='냉음료판매량', x_names='기온,도너츠판매량,습도')
+08/19/2022 12:59:43 오후:DEBUG:randomforest:load training data
+08/19/2022 12:59:43 오후:DEBUG:randomforest:fit
+08/19/2022 12:59:43 오후:DEBUG:randomforest:save model rds
+08/19/2022 12:59:43 오후:DEBUG:randomforest:get summary
+08/19/2022 12:59:43 오후:DEBUG:randomforest:get quantile
+08/19/2022 12:59:44 오후:DEBUG:randomforest:get importance
+08/19/2022 12:59:44 오후:DEBUG:randomforest:get varUsed
+08/19/2022 12:59:44 오후:DEBUG:randomforest:get error rate
+08/19/2022 12:59:44 오후:DEBUG:randomforest:get confusion matrix
+08/19/2022 12:59:44 오후:DEBUG:randomforest:error rate plot
+08/19/2022 12:59:44 오후:DEBUG:randomforest:plot var importance
+08/19/2022 12:59:44 오후:DEBUG:randomforest:print final result
+08/19/2022 12:59:44 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+08/19/2022 12:59:44 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/19/2022 12:59:44 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/19/2022 12:59:44 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/19/2022 01:18:50 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+08/19/2022 01:18:50 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+08/19/2022 01:18:50 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='냉음료판매량', x_names='기온,도너츠판매량,습도')
+08/19/2022 01:18:50 오후:DEBUG:randomforest:load training data
+08/19/2022 01:18:50 오후:DEBUG:randomforest:fit
+08/19/2022 01:18:50 오후:DEBUG:randomforest:save model rds
+08/19/2022 01:18:50 오후:DEBUG:randomforest:get summary
+08/19/2022 01:18:50 오후:DEBUG:randomforest:get quantile
+08/19/2022 01:18:51 오후:DEBUG:randomforest:get importance
+08/19/2022 01:18:51 오후:DEBUG:randomforest:get varUsed
+08/19/2022 01:18:51 오후:DEBUG:randomforest:get error rate
+08/19/2022 01:18:51 오후:DEBUG:randomforest:get confusion matrix
+08/19/2022 01:18:51 오후:DEBUG:randomforest:error rate plot
+08/19/2022 01:18:51 오후:DEBUG:randomforest:plot var importance
+08/19/2022 01:18:51 오후:DEBUG:randomforest:print final result
+08/19/2022 01:18:51 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+08/19/2022 01:18:51 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/19/2022 01:18:51 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/19/2022 01:18:51 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/19/2022 02:34:44 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+08/19/2022 02:34:44 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+08/19/2022 02:34:44 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='냉음료판매량', x_names='기온,도너츠판매량,습도')
+08/19/2022 02:34:44 오후:DEBUG:randomforest:load training data
+08/19/2022 02:34:44 오후:DEBUG:randomforest:fit
+08/19/2022 02:34:44 오후:DEBUG:randomforest:save model rds
+08/19/2022 02:34:44 오후:DEBUG:randomforest:get summary
+08/19/2022 02:34:44 오후:DEBUG:randomforest:get quantile
+08/19/2022 02:34:44 오후:DEBUG:randomforest:get importance
+08/19/2022 02:34:44 오후:DEBUG:randomforest:get varUsed
+08/19/2022 02:34:44 오후:DEBUG:randomforest:get error rate
+08/19/2022 02:34:44 오후:DEBUG:randomforest:get confusion matrix
+08/19/2022 02:34:44 오후:DEBUG:randomforest:error rate plot
+08/19/2022 02:34:45 오후:DEBUG:randomforest:plot var importance
+08/19/2022 02:34:45 오후:DEBUG:randomforest:print final result
+08/19/2022 02:34:45 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+08/19/2022 02:34:45 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/19/2022 02:34:45 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/19/2022 02:34:45 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/23/2022 10:52:05 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+08/23/2022 10:52:05 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+08/23/2022 10:52:05 오전:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='냉음료판매량', x_names='기온,도너츠판매량,습도')
+08/23/2022 10:52:05 오전:DEBUG:randomforest:load training data
+08/23/2022 10:52:05 오전:DEBUG:randomforest:fit
+08/23/2022 10:52:05 오전:DEBUG:randomforest:save model rds
+08/23/2022 10:52:05 오전:DEBUG:randomforest:get summary
+08/23/2022 10:52:05 오전:DEBUG:randomforest:get quantile
+08/23/2022 10:52:05 오전:DEBUG:randomforest:get importance
+08/23/2022 10:52:05 오전:DEBUG:randomforest:get varUsed
+08/23/2022 10:52:05 오전:DEBUG:randomforest:get error rate
+08/23/2022 10:52:05 오전:DEBUG:randomforest:get confusion matrix
+08/23/2022 10:52:05 오전:DEBUG:randomforest:error rate plot
+08/23/2022 10:52:06 오전:DEBUG:randomforest:plot var importance
+08/23/2022 10:52:06 오전:DEBUG:randomforest:print final result
+08/23/2022 10:52:06 오전:WARNING:R[write to console]: 경고메시지(들): 
+
+08/23/2022 10:52:06 오전:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/23/2022 10:52:06 오전:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/23/2022 10:52:06 오전:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/23/2022 11:39:15 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+08/23/2022 11:39:15 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+08/23/2022 11:39:16 오전:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='dataset_4', x_names='Unnamed:_0,Press_time_ms_,Pressure_1,Pressure_2')
+08/23/2022 11:39:16 오전:DEBUG:randomforest:load training data
+08/23/2022 11:39:16 오전:DEBUG:randomforest:fit
+08/23/2022 11:39:16 오전:ERROR:Parsing status not OK - PARSING_STATUS.PARSE_ERROR
+08/23/2022 11:39:16 오전:DEBUG:randomforest:save model rds
+08/23/2022 11:39:16 오전:WARNING:R[write to console]: Error in saveRDS(credit_rf, file = "/lite2/model/krmin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+08/23/2022 11:39:16 오전:WARNING:R[write to console]: 추가정보: 
+08/23/2022 11:39:16 오전:WARNING:R[write to console]: 경고메시지(들): 
+
+08/23/2022 11:39:16 오전:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/23/2022 11:39:16 오전:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/23/2022 11:39:16 오전:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+08/23/2022 11:39:16 오전:ERROR:Error in saveRDS(credit_rf, file = "/lite2/model/krmin//randomforest.model") : 
+  객체 'credit_rf'를 찾을 수 없습니다
+
+09/06/2022 10:56:17 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+09/06/2022 10:56:17 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/06/2022 10:56:18 오전:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='No,PassOrFail,Injection_Time,Filling_Time')
+09/06/2022 10:56:18 오전:DEBUG:randomforest:load training data
+09/06/2022 10:56:18 오전:DEBUG:randomforest:fit
+09/06/2022 10:56:20 오전:DEBUG:randomforest:save model rds
+09/06/2022 10:56:21 오전:DEBUG:randomforest:get summary
+09/06/2022 10:56:23 오전:DEBUG:randomforest:get quantile
+09/06/2022 10:56:23 오전:DEBUG:randomforest:get importance
+09/06/2022 10:56:23 오전:DEBUG:randomforest:get varUsed
+09/06/2022 10:56:23 오전:DEBUG:randomforest:get error rate
+09/06/2022 10:56:25 오전:DEBUG:randomforest:get confusion matrix
+09/06/2022 10:56:25 오전:DEBUG:randomforest:error rate plot
+09/06/2022 10:56:26 오전:DEBUG:randomforest:plot var importance
+09/06/2022 10:56:26 오전:DEBUG:randomforest:print final result
+09/06/2022 10:56:26 오전:WARNING:R[write to console]: 경고메시지(들): 
+
+09/06/2022 10:56:26 오전:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 10:56:26 오전:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 10:56:26 오전:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 01:37:35 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/06/2022 01:37:35 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/06/2022 01:37:35 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='No,PassOrFail,Injection_Time,Filling_Time')
+09/06/2022 01:37:35 오후:DEBUG:randomforest:load training data
+09/06/2022 01:37:35 오후:DEBUG:randomforest:fit
+09/06/2022 01:37:37 오후:DEBUG:randomforest:save model rds
+09/06/2022 01:37:38 오후:DEBUG:randomforest:get summary
+09/06/2022 01:37:40 오후:DEBUG:randomforest:get quantile
+09/06/2022 01:37:40 오후:DEBUG:randomforest:get importance
+09/06/2022 01:37:40 오후:DEBUG:randomforest:get varUsed
+09/06/2022 01:37:40 오후:DEBUG:randomforest:get error rate
+09/06/2022 01:37:43 오후:DEBUG:randomforest:get confusion matrix
+09/06/2022 01:37:43 오후:DEBUG:randomforest:error rate plot
+09/06/2022 01:37:43 오후:DEBUG:randomforest:plot var importance
+09/06/2022 01:37:43 오후:DEBUG:randomforest:print final result
+09/06/2022 01:37:43 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/06/2022 01:37:43 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 01:37:43 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 01:37:43 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 02:38:12 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/06/2022 02:38:12 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/06/2022 02:38:12 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Wind_Speed_WinSpe_AVG', x_names='Active_Power_GenPowAct_AVG,Nacelle_Position_NacPsnRdd_AVG,Rotor_Speed_SpeRot_AVG,Wind_Direction_WinDir_AVG')
+09/06/2022 02:38:12 오후:DEBUG:randomforest:load training data
+09/06/2022 02:38:12 오후:DEBUG:randomforest:fit
+09/06/2022 02:40:50 오후:DEBUG:randomforest:save model rds
+09/06/2022 02:41:01 오후:DEBUG:randomforest:get summary
+09/06/2022 02:43:37 오후:DEBUG:randomforest:get quantile
+09/06/2022 02:43:37 오후:DEBUG:randomforest:get importance
+09/06/2022 02:43:37 오후:DEBUG:randomforest:get varUsed
+09/06/2022 02:43:37 오후:DEBUG:randomforest:get error rate
+09/06/2022 02:46:13 오후:DEBUG:randomforest:get confusion matrix
+09/06/2022 02:46:54 오후:DEBUG:randomforest:error rate plot
+09/06/2022 02:46:54 오후:DEBUG:randomforest:plot var importance
+09/06/2022 02:46:54 오후:DEBUG:randomforest:print final result
+09/06/2022 02:46:55 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/06/2022 02:46:55 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 02:46:55 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 02:46:55 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 03:53:15 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/06/2022 03:53:15 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/06/2022 03:53:15 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='No,PassOrFail,Injection_Time,Filling_Time')
+09/06/2022 03:53:15 오후:DEBUG:randomforest:load training data
+09/06/2022 03:53:15 오후:DEBUG:randomforest:fit
+09/06/2022 03:53:17 오후:DEBUG:randomforest:save model rds
+09/06/2022 03:53:18 오후:DEBUG:randomforest:get summary
+09/06/2022 03:53:20 오후:DEBUG:randomforest:get quantile
+09/06/2022 03:53:20 오후:DEBUG:randomforest:get importance
+09/06/2022 03:53:20 오후:DEBUG:randomforest:get varUsed
+09/06/2022 03:53:20 오후:DEBUG:randomforest:get error rate
+09/06/2022 03:53:23 오후:DEBUG:randomforest:get confusion matrix
+09/06/2022 03:53:23 오후:DEBUG:randomforest:error rate plot
+09/06/2022 03:53:23 오후:DEBUG:randomforest:plot var importance
+09/06/2022 03:53:23 오후:DEBUG:randomforest:print final result
+09/06/2022 03:53:23 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/06/2022 03:53:23 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 03:53:23 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 03:53:23 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 04:11:53 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/06/2022 04:11:53 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/06/2022 04:11:53 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+09/06/2022 04:11:53 오후:DEBUG:randomforest:load training data
+09/06/2022 04:11:53 오후:DEBUG:randomforest:fit
+09/06/2022 04:11:55 오후:DEBUG:randomforest:save model rds
+09/06/2022 04:11:56 오후:DEBUG:randomforest:get summary
+09/06/2022 04:11:58 오후:DEBUG:randomforest:get quantile
+09/06/2022 04:11:58 오후:DEBUG:randomforest:get importance
+09/06/2022 04:11:58 오후:DEBUG:randomforest:get varUsed
+09/06/2022 04:11:58 오후:DEBUG:randomforest:get error rate
+09/06/2022 04:12:01 오후:DEBUG:randomforest:get confusion matrix
+09/06/2022 04:12:01 오후:DEBUG:randomforest:error rate plot
+09/06/2022 04:12:01 오후:DEBUG:randomforest:plot var importance
+09/06/2022 04:12:01 오후:DEBUG:randomforest:print final result
+09/06/2022 04:12:01 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/06/2022 04:12:01 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 04:12:01 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 04:12:01 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 04:22:36 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/06/2022 04:22:36 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/06/2022 04:22:36 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+09/06/2022 04:22:36 오후:DEBUG:randomforest:load training data
+09/06/2022 04:22:36 오후:DEBUG:randomforest:fit
+09/06/2022 04:22:39 오후:DEBUG:randomforest:save model rds
+09/06/2022 04:22:39 오후:DEBUG:randomforest:get summary
+09/06/2022 04:22:42 오후:DEBUG:randomforest:get quantile
+09/06/2022 04:22:42 오후:DEBUG:randomforest:get importance
+09/06/2022 04:22:42 오후:DEBUG:randomforest:get varUsed
+09/06/2022 04:22:42 오후:DEBUG:randomforest:get error rate
+09/06/2022 04:22:44 오후:DEBUG:randomforest:get confusion matrix
+09/06/2022 04:22:44 오후:DEBUG:randomforest:error rate plot
+09/06/2022 04:22:44 오후:DEBUG:randomforest:plot var importance
+09/06/2022 04:22:44 오후:DEBUG:randomforest:print final result
+09/06/2022 04:22:45 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/06/2022 04:22:45 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 04:22:45 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 04:22:45 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 04:29:46 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/06/2022 04:29:46 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/06/2022 04:29:46 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+09/06/2022 04:29:46 오후:DEBUG:randomforest:load training data
+09/06/2022 04:29:46 오후:DEBUG:randomforest:fit
+09/06/2022 04:29:48 오후:DEBUG:randomforest:save model rds
+09/06/2022 04:29:49 오후:DEBUG:randomforest:get summary
+09/06/2022 04:29:51 오후:DEBUG:randomforest:get quantile
+09/06/2022 04:29:51 오후:DEBUG:randomforest:get importance
+09/06/2022 04:29:51 오후:DEBUG:randomforest:get varUsed
+09/06/2022 04:29:51 오후:DEBUG:randomforest:get error rate
+09/06/2022 04:29:54 오후:DEBUG:randomforest:get confusion matrix
+09/06/2022 04:29:54 오후:DEBUG:randomforest:error rate plot
+09/06/2022 04:29:54 오후:DEBUG:randomforest:plot var importance
+09/06/2022 04:29:54 오후:DEBUG:randomforest:print final result
+09/06/2022 04:29:54 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/06/2022 04:29:54 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 04:29:54 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/06/2022 04:29:54 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/14/2022 01:59:46 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/14/2022 01:59:46 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/14/2022 01:59:46 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+09/14/2022 01:59:46 오후:DEBUG:randomforest:load training data
+09/14/2022 01:59:46 오후:DEBUG:randomforest:fit
+09/14/2022 01:59:48 오후:DEBUG:randomforest:save model rds
+09/14/2022 01:59:49 오후:DEBUG:randomforest:get summary
+09/14/2022 01:59:51 오후:DEBUG:randomforest:get quantile
+09/14/2022 01:59:51 오후:DEBUG:randomforest:get importance
+09/14/2022 01:59:51 오후:DEBUG:randomforest:get varUsed
+09/14/2022 01:59:51 오후:DEBUG:randomforest:get error rate
+09/14/2022 01:59:54 오후:DEBUG:randomforest:get confusion matrix
+09/14/2022 01:59:54 오후:DEBUG:randomforest:error rate plot
+09/14/2022 01:59:54 오후:DEBUG:randomforest:plot var importance
+09/14/2022 01:59:54 오후:DEBUG:randomforest:print final result
+09/14/2022 01:59:54 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/14/2022 01:59:54 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/14/2022 01:59:54 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/14/2022 01:59:54 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 01:00:57 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/15/2022 01:00:57 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/15/2022 01:00:57 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='냉음료판매량', x_names='기온,도너츠판매량,습도')
+09/15/2022 01:00:57 오후:DEBUG:randomforest:load training data
+09/15/2022 01:00:57 오후:DEBUG:randomforest:fit
+09/15/2022 01:00:57 오후:DEBUG:randomforest:save model rds
+09/15/2022 01:00:57 오후:DEBUG:randomforest:get summary
+09/15/2022 01:00:57 오후:DEBUG:randomforest:get quantile
+09/15/2022 01:00:57 오후:DEBUG:randomforest:get importance
+09/15/2022 01:00:57 오후:DEBUG:randomforest:get varUsed
+09/15/2022 01:00:57 오후:DEBUG:randomforest:get error rate
+09/15/2022 01:00:57 오후:DEBUG:randomforest:get confusion matrix
+09/15/2022 01:00:57 오후:DEBUG:randomforest:error rate plot
+09/15/2022 01:00:57 오후:DEBUG:randomforest:plot var importance
+09/15/2022 01:00:58 오후:DEBUG:randomforest:print final result
+09/15/2022 01:00:58 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/15/2022 01:00:58 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 01:00:58 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 01:00:58 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 01:07:42 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/15/2022 01:07:42 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/15/2022 01:07:43 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='냉음료판매량', x_names='기온,도너츠판매량,습도')
+09/15/2022 01:07:43 오후:DEBUG:randomforest:load training data
+09/15/2022 01:07:43 오후:DEBUG:randomforest:fit
+09/15/2022 01:07:43 오후:DEBUG:randomforest:save model rds
+09/15/2022 01:07:43 오후:DEBUG:randomforest:get summary
+09/15/2022 01:07:43 오후:DEBUG:randomforest:get quantile
+09/15/2022 01:07:43 오후:DEBUG:randomforest:get importance
+09/15/2022 01:07:43 오후:DEBUG:randomforest:get varUsed
+09/15/2022 01:07:43 오후:DEBUG:randomforest:get error rate
+09/15/2022 01:07:43 오후:DEBUG:randomforest:get confusion matrix
+09/15/2022 01:07:43 오후:DEBUG:randomforest:error rate plot
+09/15/2022 01:07:43 오후:DEBUG:randomforest:plot var importance
+09/15/2022 01:07:43 오후:DEBUG:randomforest:print final result
+09/15/2022 01:07:43 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/15/2022 01:07:43 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 01:07:43 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 01:07:43 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 02:43:10 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/15/2022 02:43:10 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/15/2022 02:43:10 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+09/15/2022 02:43:10 오후:DEBUG:randomforest:load training data
+09/15/2022 02:43:10 오후:DEBUG:randomforest:fit
+09/15/2022 02:43:12 오후:DEBUG:randomforest:save model rds
+09/15/2022 02:43:13 오후:DEBUG:randomforest:get summary
+09/15/2022 02:43:15 오후:DEBUG:randomforest:get quantile
+09/15/2022 02:43:15 오후:DEBUG:randomforest:get importance
+09/15/2022 02:43:15 오후:DEBUG:randomforest:get varUsed
+09/15/2022 02:43:15 오후:DEBUG:randomforest:get error rate
+09/15/2022 02:43:18 오후:DEBUG:randomforest:get confusion matrix
+09/15/2022 02:43:18 오후:DEBUG:randomforest:error rate plot
+09/15/2022 02:43:18 오후:DEBUG:randomforest:plot var importance
+09/15/2022 02:43:18 오후:DEBUG:randomforest:print final result
+09/15/2022 02:43:18 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/15/2022 02:43:18 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 02:43:18 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 02:43:18 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 03:15:14 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/15/2022 03:15:14 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/15/2022 03:15:15 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='냉음료판매량', x_names='기온,도너츠판매량,습도')
+09/15/2022 03:15:15 오후:DEBUG:randomforest:load training data
+09/15/2022 03:15:15 오후:DEBUG:randomforest:fit
+09/15/2022 03:15:15 오후:DEBUG:randomforest:save model rds
+09/15/2022 03:15:15 오후:DEBUG:randomforest:get summary
+09/15/2022 03:15:15 오후:DEBUG:randomforest:get quantile
+09/15/2022 03:15:15 오후:DEBUG:randomforest:get importance
+09/15/2022 03:15:15 오후:DEBUG:randomforest:get varUsed
+09/15/2022 03:15:15 오후:DEBUG:randomforest:get error rate
+09/15/2022 03:15:15 오후:DEBUG:randomforest:get confusion matrix
+09/15/2022 03:15:15 오후:DEBUG:randomforest:error rate plot
+09/15/2022 03:15:15 오후:DEBUG:randomforest:plot var importance
+09/15/2022 03:15:15 오후:DEBUG:randomforest:print final result
+09/15/2022 03:15:15 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/15/2022 03:15:15 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 03:15:15 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 03:15:15 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 04:03:59 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/15/2022 04:03:59 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/15/2022 04:03:59 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+09/15/2022 04:03:59 오후:DEBUG:randomforest:load training data
+09/15/2022 04:03:59 오후:DEBUG:randomforest:fit
+09/15/2022 04:04:02 오후:DEBUG:randomforest:save model rds
+09/15/2022 04:04:02 오후:DEBUG:randomforest:get summary
+09/15/2022 04:04:04 오후:DEBUG:randomforest:get quantile
+09/15/2022 04:04:05 오후:DEBUG:randomforest:get importance
+09/15/2022 04:04:05 오후:DEBUG:randomforest:get varUsed
+09/15/2022 04:04:05 오후:DEBUG:randomforest:get error rate
+09/15/2022 04:04:07 오후:DEBUG:randomforest:get confusion matrix
+09/15/2022 04:04:07 오후:DEBUG:randomforest:error rate plot
+09/15/2022 04:04:07 오후:DEBUG:randomforest:plot var importance
+09/15/2022 04:04:07 오후:DEBUG:randomforest:print final result
+09/15/2022 04:04:07 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/15/2022 04:04:07 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 04:04:07 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/15/2022 04:04:07 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/16/2022 02:57:27 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/16/2022 02:57:27 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/16/2022 02:57:27 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+09/16/2022 02:57:27 오후:DEBUG:randomforest:load training data
+09/16/2022 02:57:27 오후:DEBUG:randomforest:fit
+09/16/2022 02:57:29 오후:DEBUG:randomforest:save model rds
+09/16/2022 02:57:30 오후:DEBUG:randomforest:get summary
+09/16/2022 02:57:32 오후:DEBUG:randomforest:get quantile
+09/16/2022 02:57:32 오후:DEBUG:randomforest:get importance
+09/16/2022 02:57:32 오후:DEBUG:randomforest:get varUsed
+09/16/2022 02:57:32 오후:DEBUG:randomforest:get error rate
+09/16/2022 02:57:34 오후:DEBUG:randomforest:get confusion matrix
+09/16/2022 02:57:34 오후:DEBUG:randomforest:error rate plot
+09/16/2022 02:57:35 오후:DEBUG:randomforest:plot var importance
+09/16/2022 02:57:35 오후:DEBUG:randomforest:print final result
+09/16/2022 02:57:35 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/16/2022 02:57:35 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/16/2022 02:57:35 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/16/2022 02:57:35 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/20/2022 02:11:14 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/20/2022 02:11:14 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/20/2022 02:11:14 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+09/20/2022 02:11:14 오후:DEBUG:randomforest:load training data
+09/20/2022 02:11:14 오후:DEBUG:randomforest:fit
+09/20/2022 02:11:16 오후:DEBUG:randomforest:save model rds
+09/20/2022 02:11:17 오후:DEBUG:randomforest:get summary
+09/20/2022 02:11:19 오후:DEBUG:randomforest:get quantile
+09/20/2022 02:11:19 오후:DEBUG:randomforest:get importance
+09/20/2022 02:11:19 오후:DEBUG:randomforest:get varUsed
+09/20/2022 02:11:19 오후:DEBUG:randomforest:get error rate
+09/20/2022 02:11:22 오후:DEBUG:randomforest:get confusion matrix
+09/20/2022 02:11:22 오후:DEBUG:randomforest:error rate plot
+09/20/2022 02:11:22 오후:DEBUG:randomforest:plot var importance
+09/20/2022 02:11:22 오후:DEBUG:randomforest:print final result
+09/20/2022 02:11:22 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/20/2022 02:11:22 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/20/2022 02:11:22 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/20/2022 02:11:22 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/23/2022 04:06:11 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+09/23/2022 04:06:11 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/23/2022 04:06:11 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+09/23/2022 04:06:11 오후:DEBUG:randomforest:load training data
+09/23/2022 04:06:11 오후:DEBUG:randomforest:fit
+09/23/2022 04:06:13 오후:DEBUG:randomforest:save model rds
+09/23/2022 04:06:14 오후:DEBUG:randomforest:get summary
+09/23/2022 04:06:16 오후:DEBUG:randomforest:get quantile
+09/23/2022 04:06:16 오후:DEBUG:randomforest:get importance
+09/23/2022 04:06:16 오후:DEBUG:randomforest:get varUsed
+09/23/2022 04:06:16 오후:DEBUG:randomforest:get error rate
+09/23/2022 04:06:19 오후:DEBUG:randomforest:get confusion matrix
+09/23/2022 04:06:19 오후:DEBUG:randomforest:error rate plot
+09/23/2022 04:06:19 오후:DEBUG:randomforest:plot var importance
+09/23/2022 04:06:19 오후:DEBUG:randomforest:print final result
+09/23/2022 04:06:19 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+09/23/2022 04:06:19 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/23/2022 04:06:19 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/23/2022 04:06:19 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/26/2022 10:28:12 오전:WARNING:R[write to console]: randomForest 4.6-14
+
+09/26/2022 10:28:12 오전:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+09/26/2022 10:28:12 오전:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+09/26/2022 10:28:12 오전:DEBUG:randomforest:load training data
+09/26/2022 10:28:12 오전:DEBUG:randomforest:fit
+09/26/2022 10:28:14 오전:DEBUG:randomforest:save model rds
+09/26/2022 10:28:15 오전:DEBUG:randomforest:get summary
+09/26/2022 10:28:17 오전:DEBUG:randomforest:get quantile
+09/26/2022 10:28:17 오전:DEBUG:randomforest:get importance
+09/26/2022 10:28:17 오전:DEBUG:randomforest:get varUsed
+09/26/2022 10:28:17 오전:DEBUG:randomforest:get error rate
+09/26/2022 10:28:19 오전:DEBUG:randomforest:get confusion matrix
+09/26/2022 10:28:20 오전:DEBUG:randomforest:error rate plot
+09/26/2022 10:28:20 오전:DEBUG:randomforest:plot var importance
+09/26/2022 10:28:20 오전:DEBUG:randomforest:print final result
+09/26/2022 10:28:20 오전:WARNING:R[write to console]: 경고메시지(들): 
+
+09/26/2022 10:28:20 오전:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/26/2022 10:28:20 오전:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+09/26/2022 10:28:20 오전:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+10/04/2022 04:36:39 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/04/2022 04:36:39 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/04/2022 04:36:39 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+10/04/2022 04:36:39 오후:DEBUG:randomforest:load training data
+10/04/2022 04:36:39 오후:DEBUG:randomforest:fit
+10/04/2022 04:36:42 오후:DEBUG:randomforest:save model rds
+10/04/2022 04:36:42 오후:DEBUG:randomforest:get summary
+10/04/2022 04:36:45 오후:DEBUG:randomforest:get quantile
+10/04/2022 04:36:45 오후:DEBUG:randomforest:get importance
+10/04/2022 04:36:45 오후:DEBUG:randomforest:get varUsed
+10/04/2022 04:36:45 오후:DEBUG:randomforest:get error rate
+10/04/2022 04:36:47 오후:DEBUG:randomforest:get confusion matrix
+10/04/2022 04:36:47 오후:DEBUG:randomforest:error rate plot
+10/04/2022 04:36:47 오후:DEBUG:randomforest:plot var importance
+10/04/2022 04:36:48 오후:DEBUG:randomforest:print final result
+10/04/2022 04:36:48 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+10/04/2022 04:36:48 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+10/04/2022 04:36:48 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+10/04/2022 04:36:48 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+10/04/2022 08:07:25 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/04/2022 08:07:25 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/04/2022 08:07:25 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+10/04/2022 08:07:25 오후:DEBUG:randomforest:load training data
+10/04/2022 08:07:25 오후:DEBUG:randomforest:fit
+10/04/2022 08:07:27 오후:DEBUG:randomforest:save model rds
+10/04/2022 08:07:28 오후:DEBUG:randomforest:get summary
+10/04/2022 08:07:30 오후:DEBUG:randomforest:get quantile
+10/04/2022 08:07:30 오후:DEBUG:randomforest:get importance
+10/04/2022 08:07:30 오후:DEBUG:randomforest:get varUsed
+10/04/2022 08:07:30 오후:DEBUG:randomforest:get error rate
+10/04/2022 08:07:33 오후:DEBUG:randomforest:get confusion matrix
+10/04/2022 08:07:33 오후:DEBUG:randomforest:error rate plot
+10/04/2022 08:07:33 오후:DEBUG:randomforest:plot var importance
+10/04/2022 08:07:33 오후:DEBUG:randomforest:print final result
+10/04/2022 08:07:33 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+10/04/2022 08:07:33 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+10/04/2022 08:07:33 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+10/04/2022 08:07:33 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+10/05/2022 02:26:41 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/05/2022 02:26:41 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/05/2022 02:26:41 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+10/05/2022 02:26:41 오후:DEBUG:randomforest:load training data
+10/05/2022 02:26:41 오후:DEBUG:randomforest:fit
+10/05/2022 02:26:44 오후:DEBUG:randomforest:save model rds
+10/05/2022 02:26:44 오후:DEBUG:randomforest:get summary
+10/05/2022 02:26:47 오후:DEBUG:randomforest:get quantile
+10/05/2022 02:26:47 오후:DEBUG:randomforest:get importance
+10/05/2022 02:26:47 오후:DEBUG:randomforest:get varUsed
+10/05/2022 02:26:47 오후:DEBUG:randomforest:get error rate
+10/05/2022 02:26:49 오후:DEBUG:randomforest:get confusion matrix
+10/05/2022 02:26:49 오후:DEBUG:randomforest:error rate plot
+10/05/2022 02:26:49 오후:DEBUG:randomforest:plot var importance
+10/05/2022 02:26:50 오후:DEBUG:randomforest:print final result
+10/05/2022 02:26:50 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+10/05/2022 02:26:50 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+10/05/2022 02:26:50 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+10/05/2022 02:26:50 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+
+10/07/2022 12:03:05 오후:WARNING:R[write to console]: randomForest 4.6-14
+
+10/07/2022 12:03:05 오후:WARNING:R[write to console]: Type rfNews() to see new features/changes/bug fixes.
+
+10/07/2022 12:03:05 오후:DEBUG:Namespace(fun='fit', input_path='/lite2/upload/krmin/autoanalysis.csv.csv', model_path='/lite2/model/krmin//randomforest.model', numoftree=500, random_start=123, target_name='Plasticizing_Time', x_names='NO,PassOrFail,Injection_Time,Filling_Time')
+10/07/2022 12:03:05 오후:DEBUG:randomforest:load training data
+10/07/2022 12:03:05 오후:DEBUG:randomforest:fit
+10/07/2022 12:03:08 오후:DEBUG:randomforest:save model rds
+10/07/2022 12:03:08 오후:DEBUG:randomforest:get summary
+10/07/2022 12:03:11 오후:DEBUG:randomforest:get quantile
+10/07/2022 12:03:11 오후:DEBUG:randomforest:get importance
+10/07/2022 12:03:11 오후:DEBUG:randomforest:get varUsed
+10/07/2022 12:03:11 오후:DEBUG:randomforest:get error rate
+10/07/2022 12:03:13 오후:DEBUG:randomforest:get confusion matrix
+10/07/2022 12:03:13 오후:DEBUG:randomforest:error rate plot
+10/07/2022 12:03:13 오후:DEBUG:randomforest:plot var importance
+10/07/2022 12:03:14 오후:DEBUG:randomforest:print final result
+10/07/2022 12:03:14 오후:WARNING:R[write to console]: 경고메시지(들): 
+
+10/07/2022 12:03:14 오후:WARNING:R[write to console]: 1: 패키지 ‘tools’는 R 버전 3.6.1에서 작성되었습니다 
+
+10/07/2022 12:03:14 오후:WARNING:R[write to console]: 2: 패키지 ‘randomForest’는 R 버전 3.6.1에서 작성되었습니다 
+
+10/07/2022 12:03:14 오후:WARNING:R[write to console]: 3: 패키지 ‘readxl’는 R 버전 3.6.1에서 작성되었습니다 
+

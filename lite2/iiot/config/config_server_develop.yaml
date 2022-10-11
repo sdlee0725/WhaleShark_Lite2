@@ -1,0 +1,31 @@
+iiot_server:
+  tcp_server:
+    ip_address: 'localhost'
+    port: 1233
+
+  redis_server:
+    ip_address: 'onsite-monitor.xip.kr'
+    port: 6379
+    pwd: 'eoqkrWkd!@3'
+
+  rabbit_mq:
+    ip_address: '172.17.250.207'
+    port: 5672
+    id: 'whaleshark'
+    pwd: 'whaleshark'
+    exchange: 'facility'
+    exchange_type: 'direct'
+
+  influxdb:
+    ip_address: '172.17.250.206'
+    port: 8086
+    id: 'whaleshark'
+    pwd: 'whaleshark'
+    db: 'facility'
+    
+  operatingdb:
+    host: '172.17.250.206'
+    port: 3306
+    id: 'root'
+    pwd: 'datacentric'
+    db: 'whaleshark_lite2'
