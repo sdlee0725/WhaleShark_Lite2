@@ -24,7 +24,7 @@ class DataFetch():
         k = list(res.keys())
         pd.DataFrame(res[k[0]]).to_csv(output_path, index=True, sep=',', na_rep='NaN')
     def fetchrdb(self, ftype, output_path, q):
-        conn = pymysql.connect(user="root", password="pwd", host="x.x.x.x", port=3306, database="whaleshark_lite", charset='utf8')
+        conn = pymysql.connect(user="root", password="pwd", host="{x.x.x.x}", port=3306, database="whaleshark_lite", charset='utf8')
         cur = conn.cursor(pymysql.cursors.DictCursor)
         rcnt = cur.execute( q )
         row = cur.fetchall()
@@ -51,7 +51,7 @@ class DataFetch():
         input_df = input_df[clist]
         pd.DataFrame(input_df).to_csv(output_path, index=False, sep=',', na_rep='NaN')
 '''
-python fetchdata.py -ftype 'influxdb' -q 'select * from TS0001 where time>=now()-600s' -server 'onsite-monitor.xip.kr' -port '8086' -uid 'whaleshark' -pwd '' -db 'facility'
+python fetchdata.py -ftype 'influxdb' -q 'select * from TS0001 where time>=now()-600s' -server '{influxserver}' -port '8086' -uid 'whaleshark' -pwd '{pwd}' -db 'facility'
 '''
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='argparser')
