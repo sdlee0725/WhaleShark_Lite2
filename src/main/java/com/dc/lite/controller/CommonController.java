@@ -1478,6 +1478,63 @@ public class CommonController {
 	}
 	
 	@CrossOrigin("*")
+	@RequestMapping(value="/svc/{svcid}", method=RequestMethod.GET)
+	@ResponseBody
+	public Map svcinfo(HttpServletRequest request, @PathVariable("svcid") String svcid, @RequestParam Map<String,Object> param) {
+		Map ret = new HashMap();
+		ret.put("success", true);
+		ret.put("svcid", svcid);
+		
+		String remoteip = request.getRemoteAddr();
+		String userid = (String)param.get("userid");
+		String params = (String)param.get("params");
+		HashMap<String, String> qry = new HashMap<String, String>();
+		try {
+			String tsql = String.format("select * from tb_svcinfo where state='ACTIVE' and id='%s'", svcid);
+			qry.put("sql", tsql);
+			List<Object> svcinfo = commonservice.selectsql(qry);
+			
+			if(svcinfo.size()<=0)
+			{
+				ret.put("success", false);
+				ret.put("error", "service id not found");
+				return ret;
+			}
+			Map svcitem =	(Map)svcinfo.get(0);
+
+			ArrayList<String> cmds = new ArrayList<String>();
+			
+			cmds.add(app_basedir+"svc/"+svcid+"/svc.sh");
+		
+			if(userid!=null && !userid.isEmpty())
+			{
+				cmds.add("-userid");
+				cmds.add(userid);
+			}
+			cmds.add("-remoteip");
+			cmds.add(remoteip);
+			
+			String[] cmdp = cmds.toArray(new String[1]);
+			String[] log = exec_shell(cmdp, new File(app_basedir+"svc/"+svcid)); // 실행 경로 지정
+			ret.put("result", log[0]);
+			ret.put("errorlog", log[1]);
+			
+			String result = log[0].replaceAll("'", "`");
+			
+			String logsql = String.format("insert tb_svc_history (id,userid,remoteip,state,run_result,run_log,run_stime,run_etime) values ('%s','%s','%s','success','%s','',now(),now())", svcid, userid,remoteip,result);
+			
+			qry.put("sql", logsql);
+			int res = commonservice.insertsql(qry);
+			
+		} catch( Exception e) {
+			e.printStackTrace();
+			ret.put("error", e.getMessage());
+			ret.put("success", false);
+		}
+		return ret;
+	}	
+	
+	@CrossOrigin("*")
 	@RequestMapping(value="/svc/{svcid}", method=RequestMethod.POST)
 	@ResponseBody
 	public Map runsvc(MultipartHttpServletRequest request, @PathVariable("svcid") String svcid, @RequestParam Map<String,Object> param) {
