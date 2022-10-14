@@ -227,7 +227,7 @@ public class CommonController {
 		String devicetype = (String)map.get("devicetype");
 		String version = (String)map.get("version");
 		String running_time = (String)map.get("running_time");
-		String remoteip = request.getRemoteAddr();
+		String remoteip = getRemoteAddr(request);
 		
 		long rt = -1;
 		if(running_time!=null && !running_time.isEmpty()) rt = (long)Float.parseFloat(running_time); 
@@ -1471,6 +1471,7 @@ public class CommonController {
 		if(session!=null)
 		{
 			ret.put("sid", session.getId());
+			ret.put("remoteip", getRemoteAddr(request));
 			ret.put("sid_time", session.getLastAccessedTime());
 		}
 		
@@ -1485,7 +1486,7 @@ public class CommonController {
 		ret.put("success", true);
 		ret.put("svcid", svcid);
 		
-		String remoteip = request.getRemoteAddr();
+		String remoteip = getRemoteAddr(request);
 		String userid = (String)param.get("userid");
 		String params = (String)param.get("params");
 		HashMap<String, String> qry = new HashMap<String, String>();
@@ -1542,7 +1543,7 @@ public class CommonController {
 		ret.put("success", true);
 		ret.put("svcid", svcid);
 		
-		String remoteip = request.getRemoteAddr();
+		String remoteip = getRemoteAddr(request);
 		String userid = (String)param.get("userid");
 		String params = (String)param.get("params");
 		HashMap<String, String> qry = new HashMap<String, String>();
@@ -1659,6 +1660,19 @@ public class CommonController {
 			out.flush();
 			return;
 		*/
-	}	
+	}
+	
+	String getRemoteAddr(HttpServletRequest request)
+	{
+		String ip = request.getHeader("X-Forwarded-For");
+
+		if (ip == null || ip.isEmpty() || "unknown".equalsIgnoreCase(ip)) ip = request.getHeader("Proxy-Client-IP");
+		if (ip == null || ip.isEmpty() || "unknown".equalsIgnoreCase(ip)) ip = request.getHeader("WL-Proxy-Client-IP");
+		if (ip == null || ip.isEmpty() || "unknown".equalsIgnoreCase(ip)) ip = request.getHeader("HTTP_CLIENT_IP");
+		if (ip == null || ip.isEmpty() || "unknown".equalsIgnoreCase(ip)) ip = request.getHeader("HTTP_X_FORWARDED_FOR");
+		if (ip == null || ip.isEmpty() || "unknown".equalsIgnoreCase(ip)) ip = request.getRemoteAddr();
+
+		return ip;
+	}
 	
 }
