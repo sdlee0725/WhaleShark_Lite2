@@ -134,7 +134,10 @@
         	function edge_info(row)
         	{
         		var stat = "";
-        		if(row.edge_type===undefined || row.edge_type==null) stat = "정보없음";
+        		if(row.edge_type===undefined || row.edge_type==null) {
+        			if(row.remote_ip!==undefined && row.remote_ip!=null) stat =  "ip:"+row.remote_ip;
+        			else stat = "정보없음";
+        		}
         		else if(row.remote_ip==null) stat = row.edge_type; 
         		else stat =  row.edge_type+"("+row.remote_ip+")";
         		
